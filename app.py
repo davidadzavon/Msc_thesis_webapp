@@ -22,6 +22,7 @@ import os
 from io import BytesIO
 import time
 import dash
+from tempfile import NamedTemporaryFile
 warnings.filterwarnings('ignore')
 
 plt.style.use('bmh')
@@ -102,11 +103,16 @@ folium.LayerControl().add_to(m)
 
 # Average Temperature for the three afro climatic zone 
 
-url = "https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature_1/All_temperature.xls"
-response = requests.get(url)
-file_data = response.content
 
-Temp_data = pd.read_excel(BytesIO(file_data))
+url = "https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature/All_temperature.xls"
+response = requests.get(url)
+
+with NamedTemporaryFile(delete=False) as tmp_file:
+    tmp_file.write(response.content)
+    tmp_file.close()
+    Temp_data = pd.read_excel(tmp_file.name)
+
+# Now you can use Temp_data for further processing
 
 Temp_data_na = Temp_data.dropna()
 fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",              
