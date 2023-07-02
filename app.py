@@ -104,7 +104,7 @@ folium.LayerControl().add_to(m)
 # Average Temperature for the three afro climatic zone 
 
 
-Temp_data = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature_1/All_precipitation.csv")
+Temp_data = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature_1/All_temperature.csv")
 
 Temp_data_na = Temp_data.dropna()
 fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",              
