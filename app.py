@@ -114,7 +114,8 @@ if response.status_code == 200:
         print("DataFrame is empty.")
 else:
     print("Failed to download the CSV file. Status code:", response.status_code)
-
+    
+Temp_data_na["Date"] = pd.to_datetime(Temp_data_na["Date"])
 fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",            
                  facet_col="Location",  
                  #template = 'plotly_dark',
