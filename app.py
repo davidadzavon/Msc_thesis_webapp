@@ -19,6 +19,7 @@ from statsmodels.tsa.arima.model import ARIMA
 import warnings 
 import matplotlib
 import os
+from io import BytesIO
 import time
 import dash
 warnings.filterwarnings('ignore')
@@ -101,7 +102,12 @@ folium.LayerControl().add_to(m)
 
 # Average Temperature for the three afro climatic zone 
 
-Temp_data = pd.read_excel("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature/All_temperature.xls")
+url = "https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature/All_temperature.xls"
+response = requests.get(url)
+file_data = response.content
+
+Temp_data = pd.read_excel(BytesIO(file_data))
+
 Temp_data_na = Temp_data.dropna()
 fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",              
                 facet_col="Location",  
