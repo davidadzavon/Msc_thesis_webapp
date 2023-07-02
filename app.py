@@ -14,6 +14,7 @@ import geopandas as gpd
 import pmdarima as pm
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
+import requests
 from statsmodels.tsa.arima.model import ARIMA
 import warnings 
 import matplotlib
@@ -54,7 +55,14 @@ server = app.server
 # province_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/province.geojson'))
 # commune_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/commune.geojson'))
 
-country_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/country.geojson'))
+#country_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/country.geojson'))
+
+
+url = 'https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/country.geojson'
+response = requests.get(url)
+country_geojson = json.loads(response.text)
+
+
 regions_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/regions.geojson'))
 province_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/province.geojson'))
 commune_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/commune.geojson'))
