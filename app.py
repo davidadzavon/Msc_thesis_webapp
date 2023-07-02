@@ -101,26 +101,9 @@ folium.LayerControl().add_to(m)
 
 # Average Temperature for the three afro climatic zone 
 
-url = "https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature_1/All_temperature.csv"
-response = requests.get(url)
-
-if response.status_code == 200:
-    Temp_data = pd.read_csv(url)
-
-    if not Temp_data.empty:
-        Temp_data_na = Temp_data.dropna()
-
-        if not Temp_data_na.empty:
-            print(Temp_data_na.columns)  # Check column names
-            fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)", title="Monthly Average Temperature")
-            fig_temp.update_traces(mode='lines')
-            # Rest of your code for plotting or further processing
-        else:
-            print("DataFrame 'Temp_data_na' is empty after dropping NaN values.")
-    else:
-        print("DataFrame 'Temp_data' is empty.")
-else:
-    print("Failed to download the CSV file. Status code:", response.status_code)
+Temp_data = pd.read_csv("/home/adzavon/Documents/MSC_Data_Analysis/Temperature_1/All_temperature.csv")
+Temp_data_na = Temp_data.dropna()
+Temp_data_na["Date"] = pd.to_datetime(Temp_data_na["Date"])
     
 fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",            
                  facet_col="Location",  
