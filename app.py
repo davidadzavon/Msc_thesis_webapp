@@ -109,13 +109,17 @@ if response.status_code == 200:
 
     if not Temp_data.empty:
         Temp_data_na = Temp_data.dropna()
-        # Now you can use Temp_data_na for further processing
+
+        if not Temp_data_na.empty:
+            Temp_data_na["Date"] = pd.to_datetime(Temp_data_na["Date"])
+            # Now you can use Temp_data_na for further processing
+        else:
+            print("DataFrame 'Temp_data_na' is empty after dropping NaN values.")
     else:
-        print("DataFrame is empty.")
+        print("DataFrame 'Temp_data' is empty.")
 else:
     print("Failed to download the CSV file. Status code:", response.status_code)
     
-Temp_data_na["Date"] = pd.to_datetime(Temp_data_na["Date"])
 fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",            
                  facet_col="Location",  
                  #template = 'plotly_dark',
