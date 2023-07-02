@@ -104,7 +104,16 @@ folium.LayerControl().add_to(m)
 # Average Temperature for the three afro climatic zone 
 
 
-Temp_data = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature_1/All_temperature.csv")
+url = "https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature_1/All_temperature.csv"
+response = requests.get(url)
+
+if response.status_code == 200:
+    Temp_data = pd.read_csv(url)
+
+    # Now you can use Temp_data for further processing
+else:
+    print("Failed to download the CSV file. Status code:", response.status_code)
+
 
 Temp_data_na = Temp_data.dropna()
 fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",              
