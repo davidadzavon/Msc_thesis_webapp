@@ -104,15 +104,7 @@ folium.LayerControl().add_to(m)
 # Average Temperature for the three afro climatic zone 
 
 
-url = "https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature/All_temperature.xls"
-response = requests.get(url)
-
-with NamedTemporaryFile(delete=False) as tmp_file:
-    tmp_file.write(response.content)
-    tmp_file.close()
-    Temp_data = pd.read_excel(tmp_file.name)
-
-# Now you can use Temp_data for further processing
+Temp_data = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature_1/All_precipitation.csv")
 
 Temp_data_na = Temp_data.dropna()
 fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",              
@@ -133,7 +125,7 @@ fig_temp.update_layout(
 
 # Average precipitation for the three afro climatic zone 
 
-Precip_data= pd.read_excel("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Precipitation/All_precipitation.xls")
+Precip_data= pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Precipitation/All_precipitation.csv")
 fig_precip = px.scatter(Precip_data, x="Date", y="Precipitation(mm)",              
                 facet_col="Location",  
                 #template = 'plotly_dark',
