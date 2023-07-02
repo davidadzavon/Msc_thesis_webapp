@@ -111,8 +111,10 @@ if response.status_code == 200:
         Temp_data_na = Temp_data.dropna()
 
         if not Temp_data_na.empty:
-            Temp_data_na["Date"] = pd.to_datetime(Temp_data_na["Date"])
-            # Now you can use Temp_data_na for further processing
+            print(Temp_data_na.columns)  # Check column names
+            fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)", title="Monthly Average Temperature")
+            fig_temp.update_traces(mode='lines')
+            # Rest of your code for plotting or further processing
         else:
             print("DataFrame 'Temp_data_na' is empty after dropping NaN values.")
     else:
