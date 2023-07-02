@@ -19,10 +19,8 @@ from statsmodels.tsa.arima.model import ARIMA
 import warnings 
 import matplotlib
 import os
-from io import BytesIO
 import time
 import dash
-from tempfile import NamedTemporaryFile
 warnings.filterwarnings('ignore')
 
 plt.style.use('bmh')
