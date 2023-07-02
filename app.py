@@ -7,7 +7,6 @@ import json
 import folium
 from folium import plugins
 from PIL import Image
-import dash_leaflet as dl
 import dash_bootstrap_components as dbc
 from dash_bootstrap_templates import ThemeSwitchAIO
 from dash_bootstrap_templates import load_figure_template
@@ -50,10 +49,15 @@ theme_switch = ThemeSwitchAIO(
 #Read in GeoJSON files for Burkina Faso's administrative boundaries
 
 server = app.server
-country_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/country.geojson'))
-regions_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/regions.geojson'))
-province_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/province.geojson'))
-commune_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/commune.geojson'))
+# country_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/country.geojson'))
+# regions_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/regions.geojson'))
+# province_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/province.geojson'))
+# commune_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/commune.geojson'))
+
+country_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/country.geojson'))
+regions_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/regions.geojson'))
+province_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/province.geojson'))
+commune_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/commune.geojson'))
 
 # Create a Folium map object centered on Burkina Faso
 m = folium.Map(location=[10.2, -1.8], zoom_start=7)
