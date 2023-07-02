@@ -117,13 +117,13 @@ if response.status_code == 200:
 else:
     print("Failed to download the CSV file. Status code:", response.status_code)
 
-fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)")            
-                # facet_col="Location",  
-                # #template = 'plotly_dark',
-                # trendline = 'ols',
-                # trendline_color_override='darkblue',
-                # #trendline_scope="overall",
-                # title = "Monthly Average Temperature for a representative climatique")
+fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",            
+                 facet_col="Location",  
+                 #template = 'plotly_dark',
+                 trendline = 'ols',
+                 trendline_color_override='darkblue',
+                 #trendline_scope="overall",
+                title = "Monthly Average Temperature for a representative climatique")
 fig_temp.update_traces(mode='lines')
 #fig_temp.update_xaxes(showline = True, linecolor = 'black', linewidth = 1, row = 1, col = 1,)
 #fig_temp.update_yaxes(showline = True, linecolor = 'black', linewidth = 1, row = 1, col = 1,)
