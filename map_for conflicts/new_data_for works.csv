@@ -1,0 +1,197 @@
+,Year,Region,EVENT_TYPE,SUM_CONFLICTS
+0,2018,Boucle du Mouhoun,Demonstrations,6
+1,2018,Boucle du Mouhoun,Non-violent actions,1
+2,2018,Boucle du Mouhoun,Violent events,15
+3,2018,Cascades,Demonstrations,5
+4,2018,Cascades,Non-violent actions,1
+5,2018,Cascades,Violent events,1
+6,2018,Centre,Demonstrations,32
+7,2018,Centre,Non-violent actions,4
+8,2018,Centre,Violent events,11
+9,2018,Centre-Est,Demonstrations,6
+10,2018,Centre-Est,Non-violent actions,2
+11,2018,Centre-Est,Violent events,3
+12,2018,Centre-Nord,Demonstrations,5
+13,2018,Centre-Nord,Non-violent actions,1
+14,2018,Centre-Nord,Violent events,8
+15,2018,Centre-Ouest,Demonstrations,4
+16,2018,Centre-Ouest,Non-violent actions,0
+17,2018,Centre-Ouest,Violent events,2
+18,2018,Centre-Sud,Demonstrations,3
+19,2018,Centre-Sud,Non-violent actions,0
+20,2018,Centre-Sud,Violent events,0
+21,2018,Est,Demonstrations,11
+22,2018,Est,Non-violent actions,23
+23,2018,Est,Violent events,50
+24,2018,Haut-Bassins,Demonstrations,16
+25,2018,Haut-Bassins,Non-violent actions,1
+26,2018,Haut-Bassins,Violent events,7
+27,2018,Nord,Demonstrations,13
+28,2018,Nord,Non-violent actions,6
+29,2018,Nord,Violent events,10
+30,2018,Plateau-Central,Demonstrations,6
+31,2018,Plateau-Central,Non-violent actions,1
+32,2018,Plateau-Central,Violent events,0
+33,2018,Sahel,Demonstrations,2
+34,2018,Sahel,Non-violent actions,20
+35,2018,Sahel,Violent events,108
+36,2018,Sud-Ouest,Demonstrations,6
+37,2018,Sud-Ouest,Non-violent actions,3
+38,2018,Sud-Ouest,Violent events,8
+39,2019,Boucle du Mouhoun,Demonstrations,6
+40,2019,Boucle du Mouhoun,Non-violent actions,5
+41,2019,Boucle du Mouhoun,Violent events,32
+42,2019,Cascades,Demonstrations,3
+43,2019,Cascades,Non-violent actions,1
+44,2019,Cascades,Violent events,17
+45,2019,Centre,Demonstrations,59
+46,2019,Centre,Non-violent actions,3
+47,2019,Centre,Violent events,4
+48,2019,Centre-Est,Demonstrations,3
+49,2019,Centre-Est,Non-violent actions,3
+50,2019,Centre-Est,Violent events,16
+51,2019,Centre-Nord,Demonstrations,8
+52,2019,Centre-Nord,Non-violent actions,15
+53,2019,Centre-Nord,Violent events,117
+54,2019,Centre-Ouest,Demonstrations,3
+55,2019,Centre-Ouest,Non-violent actions,0
+56,2019,Centre-Ouest,Violent events,4
+57,2019,Centre-Sud,Demonstrations,3
+58,2019,Centre-Sud,Non-violent actions,0
+59,2019,Centre-Sud,Violent events,6
+60,2019,Est,Demonstrations,7
+61,2019,Est,Non-violent actions,25
+62,2019,Est,Violent events,95
+63,2019,Hauts-Bassins,Demonstrations,25
+64,2019,Hauts-Bassins,Non-violent actions,1
+65,2019,Hauts-Bassins,Violent events,4
+66,2019,Nord,Demonstrations,13
+67,2019,Nord,Non-violent actions,6
+68,2019,Nord,Violent events,59
+69,2019,Plateau-Central,Demonstrations,6
+70,2019,Plateau-Central,Non-violent actions,0
+71,2019,Plateau-Central,Violent events,2
+72,2019,Sahel,Demonstrations,1
+73,2019,Sahel,Non-violent actions,48
+74,2019,Sahel,Violent events,253
+75,2019,Sud-Ouest,Demonstrations,26
+76,2019,Sud-Ouest,Non-violent actions,1
+77,2019,Sud-Ouest,Violent events,10
+78,2020,Boucle du Mouhoun,Demonstrations,3
+79,2020,Boucle du Mouhoun,Non-violent actions,7
+80,2020,Boucle du Mouhoun,Violent events,41
+81,2020,Cascades,Demonstrations,2
+82,2020,Cascades,Non-violent actions,1
+83,2020,Cascades,Violent events,15
+84,2020,Centre,Demonstrations,30
+85,2020,Centre,Non-violent actions,3
+86,2020,Centre,Violent events,16
+87,2020,Centre-Est,Demonstrations,4
+88,2020,Centre-Est,Non-violent actions,0
+89,2020,Centre-Est,Violent events,5
+90,2020,Centre-Nord,Demonstrations,7
+91,2020,Centre-Nord,Non-violent actions,9
+92,2020,Centre-Nord,Violent events,67
+93,2020,Centre-Ouest,Demonstrations,6
+94,2020,Centre-Ouest,Non-violent actions,1
+95,2020,Centre-Ouest,Violent events,1
+96,2020,Centre-Sud,Demonstrations,0
+97,2020,Centre-Sud,Non-violent actions,0
+98,2020,Centre-Sud,Violent events,1
+99,2020,Est,Demonstrations,13
+100,2020,Est,Non-violent actions,46
+101,2020,Est,Violent events,130
+102,2020,Hauts-Bassins,Demonstrations,12
+103,2020,Hauts-Bassins,Non-violent actions,1
+104,2020,Hauts-Bassins,Violent events,7
+105,2020,Nord,Demonstrations,3
+106,2020,Nord,Non-violent actions,10
+107,2020,Nord,Violent events,59
+108,2020,Plateau-Central,Demonstrations,2
+109,2020,Plateau-Central,Non-violent actions,0
+110,2020,Plateau-Central,Violent events,0
+111,2020,Sahel,Demonstrations,3
+112,2020,Sahel,Non-violent actions,47
+113,2020,Sahel,Violent events,306
+114,2020,Sud-Ouest,Demonstrations,11
+115,2020,Sud-Ouest,Non-violent actions,0
+116,2020,Sud-Ouest,Violent events,5
+117,2020,boucle du Mouhoun,Violent events,3
+118,2021,Boucle du Mouhoun,Demonstrations,6
+119,2021,Boucle du Mouhoun,Non-violent actions,58
+120,2021,Boucle du Mouhoun,Violent events,89
+121,2021,Cascades,Demonstrations,3
+122,2021,Cascades,Non-violent actions,7
+123,2021,Cascades,Violent events,60
+124,2021,Centre,Demonstrations,41
+125,2021,Centre,Non-violent actions,0
+126,2021,Centre,Violent events,3
+127,2021,Centre-Est,Demonstrations,5
+128,2021,Centre-Est,Non-violent actions,5
+129,2021,Centre-Est,Violent events,13
+130,2021,Centre-Nord,Demonstrations,32
+131,2021,Centre-Nord,Non-violent actions,35
+132,2021,Centre-Nord,Violent events,159
+133,2021,Centre-Ouest,Demonstrations,11
+134,2021,Centre-Ouest,Non-violent actions,1
+135,2021,Centre-Ouest,Violent events,1
+136,2021,Centre-Sud,Demonstrations,7
+137,2021,Centre-Sud,Non-violent actions,1
+138,2021,Centre-Sud,Violent events,5
+139,2021,Est,Demonstrations,23
+140,2021,Est,Non-violent actions,97
+141,2021,Est,Violent events,317
+142,2021,Hauts-Bassins,Demonstrations,16
+143,2021,Hauts-Bassins,Non-violent actions,2
+144,2021,Hauts-Bassins,Violent events,2
+145,2021,Nord,Demonstrations,23
+146,2021,Nord,Non-violent actions,38
+147,2021,Nord,Violent events,150
+148,2021,Plateau-Central,Demonstrations,3
+149,2021,Plateau-Central,Non-violent actions,0
+150,2021,Plateau-Central,Violent events,0
+151,2021,Sahel,Demonstrations,13
+152,2021,Sahel,Non-violent actions,96
+153,2021,Sahel,Violent events,511
+154,2021,Sud-Ouest,Demonstrations,12
+155,2021,Sud-Ouest,Non-violent actions,4
+156,2021,Sud-Ouest,Violent events,13
+157,2022,Boucle du Mouhoun,Demonstrations,3
+158,2022,Boucle du Mouhoun,Non-violent actions,141
+159,2022,Boucle du Mouhoun,Violent events,138
+160,2022,Cascades,Demonstrations,6
+161,2022,Cascades,Non-violent actions,13
+162,2022,Cascades,Violent events,58
+163,2022,Centre,Demonstrations,56
+164,2022,Centre,Non-violent actions,4
+165,2022,Centre,Violent events,11
+166,2022,Centre-Est,Demonstrations,6
+167,2022,Centre-Est,Non-violent actions,48
+168,2022,Centre-Est,Violent events,82
+169,2022,Centre-Nord,Demonstrations,11
+170,2022,Centre-Nord,Non-violent actions,161
+171,2022,Centre-Nord,Violent events,234
+172,2022,Centre-Ouest,Demonstrations,3
+173,2022,Centre-Ouest,Non-violent actions,11
+174,2022,Centre-Ouest,Violent events,10
+175,2022,Centre-Sud,Demonstrations,6
+176,2022,Centre-Sud,Non-violent actions,2
+177,2022,Centre-Sud,Violent events,4
+178,2022,Est,Demonstrations,15
+179,2022,Est,Non-violent actions,255
+180,2022,Est,Violent events,343
+181,2022,Hauts-Bassins,Demonstrations,24
+182,2022,Hauts-Bassins,Non-violent actions,18
+183,2022,Hauts-Bassins,Violent events,35
+184,2022,Nord,Demonstrations,15
+185,2022,Nord,Non-violent actions,103
+186,2022,Nord,Violent events,157
+187,2022,Plateau-Central,Demonstrations,3
+188,2022,Plateau-Central,Non-violent actions,0
+189,2022,Plateau-Central,Violent events,0
+190,2022,Sahel,Demonstrations,14
+191,2022,Sahel,Non-violent actions,101
+192,2022,Sahel,Violent events,408
+193,2022,Sud-Ouest,Demonstrations,3
+194,2022,Sud-Ouest,Non-violent actions,12
+195,2022,Sud-Ouest,Violent events,37

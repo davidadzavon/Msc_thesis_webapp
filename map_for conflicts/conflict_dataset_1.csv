@@ -1,0 +1,318 @@
+"Year","Region","EVENT_TYPE","SUM_CONFLICTS"
+2018,"Boucle du Mouhoun","Battles",10
+2018,"Boucle du Mouhoun","Explosions/Remote violence",1
+2018,"Boucle du Mouhoun","Protests",3
+2018,"Boucle du Mouhoun","Riots",3
+2018,"Boucle du Mouhoun","Strategic developments",1
+2018,"Boucle du Mouhoun","Violence against civilians",4
+2018,"Cascades","Battles",1
+2018,"Cascades","Protests",4
+2018,"Cascades","Riots",1
+2018,"Cascades","Strategic developments",1
+2018,"Centre","Battles",6
+2018,"Centre","Protests",25
+2018,"Centre","Riots",7
+2018,"Centre","Strategic developments",4
+2018,"Centre","Violence against civilians",5
+2018,"Centre-Est","Battles",2
+2018,"Centre-Est","Protests",3
+2018,"Centre-Est","Riots",3
+2018,"Centre-Est","Strategic developments",2
+2018,"Centre-Est","Violence against civilians",1
+2018,"Centre-Nord","Battles",4
+2018,"Centre-Nord","Explosions/Remote violence",1
+2018,"Centre-Nord","Protests",2
+2018,"Centre-Nord","Riots",3
+2018,"Centre-Nord","Strategic developments",1
+2018,"Centre-Nord","Violence against civilians",3
+2018,"Centre-Ouest","Battles",2
+2018,"Centre-Ouest","Protests",4
+2018,"Centre-Sud","Protests",3
+2018,"Est","Battles",21
+2018,"Est","Explosions/Remote violence",8
+2018,"Est","Protests",8
+2018,"Est","Riots",3
+2018,"Est","Strategic developments",23
+2018,"Est","Violence against civilians",21
+2018,"Haut-Bassins","Battles",2
+2018,"Haut-Bassins","Explosions/Remote violence",1
+2018,"Haut-Bassins","Protests",15
+2018,"Haut-Bassins","Riots",1
+2018,"Haut-Bassins","Strategic developments",1
+2018,"Haut-Bassins","Violence against civilians",4
+2018,"Nord","Battles",3
+2018,"Nord","Protests",7
+2018,"Nord","Riots",6
+2018,"Nord","Strategic developments",6
+2018,"Nord","Violence against civilians",7
+2018,"Plateau-Central","Protests",4
+2018,"Plateau-Central","Riots",2
+2018,"Plateau-Central","Strategic developments",1
+2018,"Sahel","Battles",23
+2018,"Sahel","Explosions/Remote violence",10
+2018,"Sahel","Protests",2
+2018,"Sahel","Strategic developments",20
+2018,"Sahel","Violence against civilians",75
+2018,"Sud-Ouest","Battles",4
+2018,"Sud-Ouest","Protests",5
+2018,"Sud-Ouest","Riots",1
+2018,"Sud-Ouest","Strategic developments",3
+2018,"Sud-Ouest","Violence against civilians",4
+2019,"Boucle du Mouhoun","Battles",18
+2019,"Boucle du Mouhoun","Explosions/Remote violence",2
+2019,"Boucle du Mouhoun","Protests",5
+2019,"Boucle du Mouhoun","Riots",1
+2019,"Boucle du Mouhoun","Strategic developments",5
+2019,"Boucle du Mouhoun","Violence against civilians",12
+2019,"Cascades","Battles",15
+2019,"Cascades","Riots",3
+2019,"Cascades","Strategic developments",1
+2019,"Cascades","Violence against civilians",2
+2019,"Centre","Battles",1
+2019,"Centre","Protests",54
+2019,"Centre","Riots",5
+2019,"Centre","Strategic developments",3
+2019,"Centre","Violence against civilians",3
+2019,"Centre-Est","Battles",6
+2019,"Centre-Est","Explosions/Remote violence",1
+2019,"Centre-Est","Protests",2
+2019,"Centre-Est","Riots",1
+2019,"Centre-Est","Strategic developments",3
+2019,"Centre-Est","Violence against civilians",9
+2019,"Centre-Nord","Battles",30
+2019,"Centre-Nord","Explosions/Remote violence",6
+2019,"Centre-Nord","Protests",8
+2019,"Centre-Nord","Strategic developments",15
+2019,"Centre-Nord","Violence against civilians",81
+2019,"Centre-Ouest","Battles",1
+2019,"Centre-Ouest","Protests",3
+2019,"Centre-Ouest","Violence against civilians",3
+2019,"Centre-Sud","Battles",5
+2019,"Centre-Sud","Protests",2
+2019,"Centre-Sud","Riots",1
+2019,"Centre-Sud","Violence against civilians",1
+2019,"Est","Battles",31
+2019,"Est","Explosions/Remote violence",6
+2019,"Est","Protests",7
+2019,"Est","Strategic developments",25
+2019,"Est","Violence against civilians",58
+2019,"Hauts-Bassins","Battles",3
+2019,"Hauts-Bassins","Protests",16
+2019,"Hauts-Bassins","Riots",9
+2019,"Hauts-Bassins","Strategic developments",1
+2019,"Hauts-Bassins","Violence against civilians",1
+2019,"Nord","Battles",14
+2019,"Nord","Explosions/Remote violence",7
+2019,"Nord","Protests",11
+2019,"Nord","Riots",2
+2019,"Nord","Strategic developments",6
+2019,"Nord","Violence against civilians",38
+2019,"Plateau-Central","Protests",5
+2019,"Plateau-Central","Riots",1
+2019,"Plateau-Central","Violence against civilians",2
+2019,"Sahel","Battles",82
+2019,"Sahel","Explosions/Remote violence",30
+2019,"Sahel","Protests",1
+2019,"Sahel","Strategic developments",48
+2019,"Sahel","Violence against civilians",141
+2019,"Sud-Ouest","Battles",6
+2019,"Sud-Ouest","Protests",22
+2019,"Sud-Ouest","Riots",4
+2019,"Sud-Ouest","Strategic developments",1
+2019,"Sud-Ouest","Violence against civilians",4
+2019,"boucle du Mouhoun","Strategic developments",1
+2020,"Boucle du Mouhoun","Battles",14
+2020,"Boucle du Mouhoun","Explosions/Remote violence",6
+2020,"Boucle du Mouhoun","Protests",1
+2020,"Boucle du Mouhoun","Riots",2
+2020,"Boucle du Mouhoun","Strategic developments",7
+2020,"Boucle du Mouhoun","Violence against civilians",21
+2020,"Cascades","Battles",8
+2020,"Cascades","Explosions/Remote violence",4
+2020,"Cascades","Protests",1
+2020,"Cascades","Riots",1
+2020,"Cascades","Strategic developments",1
+2020,"Cascades","Violence against civilians",3
+2020,"Centre","Battles",1
+2020,"Centre","Explosions/Remote violence",1
+2020,"Centre","Protests",23
+2020,"Centre","Riots",7
+2020,"Centre","Strategic developments",3
+2020,"Centre","Violence against civilians",14
+2020,"Centre-Est","Battles",1
+2020,"Centre-Est","Protests",4
+2020,"Centre-Est","Violence against civilians",4
+2020,"Centre-Nord","Battles",28
+2020,"Centre-Nord","Explosions/Remote violence",1
+2020,"Centre-Nord","Protests",6
+2020,"Centre-Nord","Riots",1
+2020,"Centre-Nord","Strategic developments",9
+2020,"Centre-Nord","Violence against civilians",38
+2020,"Centre-Ouest","Protests",6
+2020,"Centre-Ouest","Strategic developments",1
+2020,"Centre-Ouest","Violence against civilians",1
+2020,"Centre-Sud","Battles",1
+2020,"Est","Battles",41
+2020,"Est","Explosions/Remote violence",9
+2020,"Est","Protests",12
+2020,"Est","Riots",1
+2020,"Est","Strategic developments",46
+2020,"Est","Violence against civilians",80
+2020,"Hauts-Bassins","Battles",3
+2020,"Hauts-Bassins","Protests",10
+2020,"Hauts-Bassins","Riots",2
+2020,"Hauts-Bassins","Strategic developments",1
+2020,"Hauts-Bassins","Violence against civilians",4
+2020,"Nord","Battles",31
+2020,"Nord","Explosions/Remote violence",12
+2020,"Nord","Protests",3
+2020,"Nord","Strategic developments",10
+2020,"Nord","Violence against civilians",16
+2020,"Plateau-Central","Protests",1
+2020,"Plateau-Central","Riots",1
+2020,"Sahel","Battles",111
+2020,"Sahel","Explosions/Remote violence",43
+2020,"Sahel","Protests",1
+2020,"Sahel","Riots",2
+2020,"Sahel","Strategic developments",47
+2020,"Sahel","Violence against civilians",152
+2020,"Sud-Ouest","Battles",4
+2020,"Sud-Ouest","Protests",9
+2020,"Sud-Ouest","Riots",2
+2020,"Sud-Ouest","Violence against civilians",1
+2020,"boucle du Mouhoun","Violence against civilians",3
+2021,"Boucle du Mouhoun","Battles",14
+2021,"Boucle du Mouhoun","Explosions/Remote violence",27
+2021,"Boucle du Mouhoun","Protests",5
+2021,"Boucle du Mouhoun","Strategic developments",58
+2021,"Boucle du Mouhoun","Violence against civilians",48
+2021,"Cascades","Battles",18
+2021,"Cascades","Explosions/Remote violence",21
+2021,"Cascades","Protests",2
+2021,"Cascades","Riots",1
+2021,"Cascades","Strategic developments",7
+2021,"Cascades","Violence against civilians",21
+2021,"Centre","Protests",28
+2021,"Centre","Riots",13
+2021,"Centre","Violence against civilians",3
+2021,"Centre-Est","Explosions/Remote violence",2
+2021,"Centre-Est","Protests",4
+2021,"Centre-Est","Riots",1
+2021,"Centre-Est","Strategic developments",5
+2021,"Centre-Est","Violence against civilians",11
+2021,"Centre-Nord","Battles",61
+2021,"Centre-Nord","Explosions/Remote violence",40
+2021,"Centre-Nord","Protests",20
+2021,"Centre-Nord","Riots",12
+2021,"Centre-Nord","Strategic developments",35
+2021,"Centre-Nord","Violence against civilians",58
+2021,"Centre-Ouest","Battles",1
+2021,"Centre-Ouest","Protests",9
+2021,"Centre-Ouest","Riots",2
+2021,"Centre-Ouest","Strategic developments",1
+2021,"Centre-Sud","Battles",1
+2021,"Centre-Sud","Protests",3
+2021,"Centre-Sud","Riots",4
+2021,"Centre-Sud","Strategic developments",1
+2021,"Centre-Sud","Violence against civilians",4
+2021,"Est","Battles",59
+2021,"Est","Explosions/Remote violence",55
+2021,"Est","Protests",20
+2021,"Est","Riots",3
+2021,"Est","Strategic developments",97
+2021,"Est","Violence against civilians",203
+2021,"Hauts-Bassins","Battles",2
+2021,"Hauts-Bassins","Protests",12
+2021,"Hauts-Bassins","Riots",4
+2021,"Hauts-Bassins","Strategic developments",2
+2021,"Nord","Battles",32
+2021,"Nord","Explosions/Remote violence",63
+2021,"Nord","Protests",18
+2021,"Nord","Riots",5
+2021,"Nord","Strategic developments",38
+2021,"Nord","Violence against civilians",55
+2021,"Plateau-Central","Protests",3
+2021,"Sahel","Battles",111
+2021,"Sahel","Explosions/Remote violence",152
+2021,"Sahel","Protests",13
+2021,"Sahel","Strategic developments",96
+2021,"Sahel","Violence against civilians",248
+2021,"Sud-Ouest","Battles",5
+2021,"Sud-Ouest","Protests",9
+2021,"Sud-Ouest","Riots",3
+2021,"Sud-Ouest","Strategic developments",4
+2021,"Sud-Ouest","Violence against civilians",8
+2021,"boucle du Mouhoun","Riots",1
+2021,"boucle du Mouhoun","Violence against civilians",1
+2022,"Boucle du Mouhoun","Battles",41
+2022,"Boucle du Mouhoun","Explosions/Remote violence",41
+2022,"Boucle du Mouhoun","Protests",3
+2022,"Boucle du Mouhoun","Strategic developments",141
+2022,"Boucle du Mouhoun","Violence against civilians",56
+2022,"Cascades","Battles",24
+2022,"Cascades","Explosions/Remote violence",13
+2022,"Cascades","Protests",4
+2022,"Cascades","Riots",2
+2022,"Cascades","Strategic developments",13
+2022,"Cascades","Violence against civilians",21
+2022,"Centre","Battles",3
+2022,"Centre","Explosions/Remote violence",1
+2022,"Centre","Protests",45
+2022,"Centre","Riots",11
+2022,"Centre","Strategic developments",4
+2022,"Centre","Violence against civilians",7
+2022,"Centre-Est","Battles",18
+2022,"Centre-Est","Explosions/Remote violence",17
+2022,"Centre-Est","Protests",5
+2022,"Centre-Est","Riots",1
+2022,"Centre-Est","Strategic developments",48
+2022,"Centre-Est","Violence against civilians",47
+2022,"Centre-Nord","Battles",80
+2022,"Centre-Nord","Explosions/Remote violence",79
+2022,"Centre-Nord","Protests",5
+2022,"Centre-Nord","Riots",6
+2022,"Centre-Nord","Strategic developments",161
+2022,"Centre-Nord","Violence against civilians",75
+2022,"Centre-Ouest","Battles",3
+2022,"Centre-Ouest","Protests",2
+2022,"Centre-Ouest","Riots",1
+2022,"Centre-Ouest","Strategic developments",11
+2022,"Centre-Ouest","Violence against civilians",7
+2022,"Centre-Sud","Battles",2
+2022,"Centre-Sud","Explosions/Remote violence",1
+2022,"Centre-Sud","Protests",5
+2022,"Centre-Sud","Riots",1
+2022,"Centre-Sud","Strategic developments",2
+2022,"Centre-Sud","Violence against civilians",1
+2022,"Est","Battles",82
+2022,"Est","Explosions/Remote violence",94
+2022,"Est","Protests",11
+2022,"Est","Riots",4
+2022,"Est","Strategic developments",255
+2022,"Est","Violence against civilians",167
+2022,"Hauts-Bassins","Battles",18
+2022,"Hauts-Bassins","Explosions/Remote violence",1
+2022,"Hauts-Bassins","Protests",17
+2022,"Hauts-Bassins","Riots",7
+2022,"Hauts-Bassins","Strategic developments",18
+2022,"Hauts-Bassins","Violence against civilians",16
+2022,"Nord","Battles",54
+2022,"Nord","Explosions/Remote violence",68
+2022,"Nord","Protests",10
+2022,"Nord","Riots",5
+2022,"Nord","Strategic developments",103
+2022,"Nord","Violence against civilians",35
+2022,"Plateau-Central","Protests",2
+2022,"Plateau-Central","Riots",1
+2022,"Sahel","Battles",148
+2022,"Sahel","Explosions/Remote violence",129
+2022,"Sahel","Protests",13
+2022,"Sahel","Riots",1
+2022,"Sahel","Strategic developments",101
+2022,"Sahel","Violence against civilians",131
+2022,"Sud-Ouest","Battles",13
+2022,"Sud-Ouest","Explosions/Remote violence",11
+2022,"Sud-Ouest","Protests",3
+2022,"Sud-Ouest","Strategic developments",12
+2022,"Sud-Ouest","Violence against civilians",13
+2022,"sahel","Violence against civilians",9

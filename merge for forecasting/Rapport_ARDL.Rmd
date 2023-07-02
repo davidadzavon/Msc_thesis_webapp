@@ -1,0 +1,289 @@
+---
+title: "Rapport ARDL"
+author: "Koffi Doh ADZAVON"
+date: "2023-04-11"
+output: html_document
+---
+
+The comments and the results of the ARDL model
+
+1-
+```{r}
+
+##### read the dataset 
+library(tidyverse)
+library(zoo)
+library(forecast)
+library(lubridate)
+library(dynlm)
+library(nardl)
+library(dLagM)
+library(dynamic)
+library(tseries)
+library(TSstudio)
+library(dynamac)
+library(vars)
+library(carData)
+library(car)
+library(dplyr)
+library(ARDL)
+library(lmtest)
+library(minpack.lm)
+library(rgl)
+library(qpcR)
+library(urca)
+setwd("/home/adzavon/Documents/MSC_Data_Analysis/merge for forecasting/")
+data <- read_csv("causality_and_var.csv")
+data[data == 0] <- 0.001
+colnames(data)
+
+```
+
+selection of the variables
+
+```{r}
+NV.action <- data$Nvsctions
+Vactions <- data$Vactions
+Demonstrations <- data$Demonstrations
+Floods <- data$Floods
+Storms <- data$Storms
+Idp <- data$Idp
+```
+
+change them into time series data
+
+```{r}
+NV.action <- ts(NV.action, start = c(2018,7),
+                end = c(2022,12), frequency=12)
+Vactions <- ts(Vactions, start = c(2018,7),
+                end = c(2022,12), frequency=12)
+Demonstrations <- ts(Demonstrations, start = c(2018,7),
+                end = c(2022,12), frequency=12)
+Floods <- ts(Floods, start = c(2018,7),
+                end = c(2022,12), frequency=12)
+Storms <- ts(Storms, start = c(2018,7),
+                end = c(2022,12), frequency=12)
+Idp <- ts(Idp, start = c(2018,7),
+                end = c(2022,12), frequency=12)
+
+
+### metge them to a single time series data
+
+data.ts <- data.frame(Vactions,NV.action,Demonstrations,
+                      Floods,Storms,Idp)
+
+```
+
+plot the data
+
+```{r}
+plot.ts(data.ts)
+
+```
+autocorrelation and partial auto correlation
+
+```{r}
+
+acf(Vactions)
+pacf(Vactions)
+
+acf(NV.action)
+pacf(NV.action)
+
+acf(Demonstrations)
+pacf(Demonstrations)
+
+acf(Floods)
+pacf(Floods)
+
+acf(Storms)
+pacf(Storms)
+
+acf(Idp)
+pacf(Idp)
+
+```
+ADF test
+
+```{r}
+
+adf.test(data.ts$Vactions) # not stationary
+adf.test(na.omit(data.ts$NV.action))# not stationary
+adf.test(data.ts$Demonstrations) # # not stationary
+adf.test(data.ts$Floods) # stationary
+adf.test(data.ts$Storms) # not stationary
+adf.test(data.ts$Idp) # not stationary
+
+```
+philip pearon
+
+```{r}
+
+### philip pearon
+pp.test(data.ts$Vactions) # stationary
+pp.test(data.ts$NV.action) # stationary
+pp.test(data.ts$Demonstrations) # stationary
+pp.test(data.ts$Floods)  # stationary
+pp.test(data.ts$Storms)  # stationary
+pp.test(data.ts$Idp) # not stationary
+
+```
+
+differencing the data
+
+```{r}
+
+#  differencing the variables
+
+Vactions.diff <-diff(data.ts$Vactions) # stationary
+NV.action.diff <- diff(data.ts$NV.action) # stationary
+Demonstrations.diff <- diff(data.ts$Demonstrations) # stationary
+Floods.diff <- diff(data.ts$Floods)  # stationary
+Storms.diff <- diff(data.ts$Storms)  # stationary
+Idp.diff <- diff(data.ts$Idp) # not stationary
+```
+
+
+redo the test of ADF and for Philip pearon
+
+
+```{r}
+
+# check the stationaruty of the first difference
+adf.test(Vactions.diff)
+adf.test(NV.action.diff)
+adf.test(Demonstrations.diff)
+adf.test(Floods.diff)
+adf.test(Storms.diff)
+adf.test(Idp.diff)
+
+pp.test(Vactions.diff)
+pp.test(NV.action.diff)
+pp.test(Demonstrations.diff)
+pp.test(Floods.diff)
+pp.test(Storms.diff)
+pp.test(Idp.diff)
+
+
+```
+model to select the max lag
+
+```{r}
+
+max_order_ardl <- auto_ardl(Idp ~ Vactions
+                            + NV.action
+                            + Demonstrations
+                            + Floods
+                            + Storms,
+                            data = data.ts, selection = "AIC",
+                            max_order = 4,
+                            selection_minmax = "min"
+                           )
+
+
+max_order_ardl$top_orders
+max_order_ardl$best_order
+max_order_ardl$best_model
+summary(max_order_ardl$best_model)
+
+```
+
+Residual tests
+
+```{r}
+
+res = residuals(max_order_ardl$best_model)
+res
+mean(res)
+jarque.bera.test(res)
+shapiro.test(res)
+```
+my ARDL model for estimation
+```{r}
+ardl.model <- ardl(Idp ~ Vactions
+                            + NV.action
+                            + Demonstrations
+                            + Floods
+                            + Storms,
+                            data = data.ts, selection = "AIC",
+                            order = c(3,4,3,0,3,3),
+                            selection_minmax = "min"
+) 
+
+summary(ardl.model)
+
+```
+
+cointegration test
+
+```{r}
+bounds_f_test(ardl.model,case = 3, alpha = 0.05)
+bounds_t_test(ardl.model, case = 3, alpha = 0.05)
+m = ca.jo(data.frame(data.ts), ecdet = "const",type = "trace")
+summary(m)
+```
+
+unrestricted error correction model
+
+```{r}
+# # long run and short run after checking the cointegration
+# # uecm (unrestricted error correction model)
+ce2_ardl <- coint_eq(ardl.model, case = 3)
+uecm <- uecm(ardl.model)
+summary(uecm)
+```
+restricted error corection model
+
+```{r}
+# # the shorst run olny (recm restricted error correction model)
+ce2_uecm <- coint_eq(uecm, case = 3)
+recm <- recm(uecm,case = 3)
+summary(recm)
+ce2_recm <- coint_eq(recm)
+identical(ce2_ardl,ce2_uecm,ce2_recm)
+```
+long run estimation
+
+```{r}
+# # long run estimation
+
+lon_run1 <- multipliers(ardl.model)
+lon_run1
+
+long_run2 <- multipliers(uecm)
+long_run2
+out <- cbind.zoo(LRM = data$Idp, ce2_recm)
+plot(out)
+```
+
+consum to test the stabitlity of the model
+```{r}
+par(mar=c(5, 4, 4, 4))
+bound.test <- ardlBound(Idp ~ Vactions
+                        + NV.action
+                        + Demonstrations
+                        + Floods
+                        + Storms ,
+                        data = data.ts, case = 3,
+                         max.p = 4, max.q = 2)
+
+
+```
+stability test
+
+```{r}
+
+par(mar = c(5, 5, 2, 2))  # adjust plot margins
+
+bound.test <- ardlBound(Idp ~ Vactions
+                        + NV.action
+                        + Demonstrations
+                        + Floods
+                        + Storms ,
+                        data = data.ts, case = 3,
+                        stability = TRUE, ECM = FALSE,
+                        max.p = 4, max.q = 2,
+)
+
+```
+

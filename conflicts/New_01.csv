@@ -1,0 +1,1580 @@
+Date,Region,Event
+2018-01,Centre,Protests
+2018-01,Centre-Est,Riots
+2018-01,Centre-Nord,Protests
+2018-01,Centre-Sud,Protests
+2018-01,Hauts-Bassins,Protests
+2018-01,Plateau-Central,Riots
+2018-01,Sahel,Battles
+2018-01,Sahel,Strategic developments
+2018-01,Sahel,Violence against civilians
+2018-02,Centre-Nord,Riots
+2018-02,Est,Battles
+2018-02,Est,Protests
+2018-02,Est,Riots
+2018-02,Nord,Strategic developments
+2018-02,Sahel,Battles
+2018-02,Sahel,Strategic developments
+2018-02,Sahel,Violence against civilians
+2018-03,Boucle du Mouhoun,Battles
+2018-03,Centre,Battles
+2018-03,Centre,Riots
+2018-03,Centre-Est,Strategic developments
+2018-03,Est,Battles
+2018-03,Est,Explosions/Remote violence
+2018-03,Est,Protests
+2018-03,Hauts-Bassins,Explosions/Remote violence
+2018-03,Sahel,Violence against civilians
+2018-04,Boucle du Mouhoun,Battles
+2018-04,Boucle du Mouhoun,Violence against civilians
+2018-04,Centre,Protests
+2018-04,Est,Battles
+2018-04,Est,Strategic developments
+2018-04,Est,Violence against civilians
+2018-04,Hauts-Bassins,Protests
+2018-04,Nord,Protests
+2018-04,Nord,Violence against civilians
+2018-04,Sahel,Battles
+2018-04,Sahel,Explosions/Remote violence
+2018-04,Sahel,Protests
+2018-04,Sahel,Strategic developments
+2018-04,Sahel,Violence against civilians
+2018-05,Cascades,Protests
+2018-05,Centre,Battles
+2018-05,Centre,Protests
+2018-05,Centre,Violence against civilians
+2018-05,Centre-Nord,Riots
+2018-05,Centre-Nord,Strategic developments
+2018-05,Centre-Nord,Violence against civilians
+2018-05,Centre-Sud,Protests
+2018-05,Est,Riots
+2018-05,Nord,Riots
+2018-05,Sahel,Battles
+2018-05,Sahel,Strategic developments
+2018-05,Sahel,Violence against civilians
+2018-06,Centre,Protests
+2018-06,Centre,Riots
+2018-06,Centre,Violence against civilians
+2018-06,Centre-Est,Battles
+2018-06,Est,Battles
+2018-06,Est,Violence against civilians
+2018-06,Nord,Violence against civilians
+2018-06,Sahel,Explosions/Remote violence
+2018-06,Sahel,Strategic developments
+2018-06,Sahel,Violence against civilians
+2018-06,Sud-Ouest,Protests
+2018-07,Est,Battles
+2018-07,Est,Strategic developments
+2018-07,Est,Violence against civilians
+2018-07,Hauts-Bassins,Protests
+2018-07,Sahel,Battles
+2018-07,Sahel,Violence against civilians
+2018-08,Boucle du Mouhoun,Battles
+2018-08,Centre-Est,Riots
+2018-08,Centre-Nord,Explosions/Remote violence
+2018-08,Centre-Nord,Violence against civilians
+2018-08,Est,Battles
+2018-08,Est,Explosions/Remote violence
+2018-08,Est,Strategic developments
+2018-08,Hauts-Bassins,Protests
+2018-08,Hauts-Bassins,Riots
+2018-08,Hauts-Bassins,Strategic developments
+2018-08,Hauts-Bassins,Violence against civilians
+2018-08,Nord,Battles
+2018-08,Nord,Protests
+2018-08,Sahel,Explosions/Remote violence
+2018-08,Sahel,Violence against civilians
+2018-08,Sud-Ouest,Battles
+2018-09,Cascades,Strategic developments
+2018-09,Centre,Protests
+2018-09,Centre,Riots
+2018-09,Centre-Est,Violence against civilians
+2018-09,Centre-Ouest,Battles
+2018-09,Est,Battles
+2018-09,Est,Explosions/Remote violence
+2018-09,Est,Riots
+2018-09,Est,Strategic developments
+2018-09,Est,Violence against civilians
+2018-09,Hauts-Bassins,Battles
+2018-09,Hauts-Bassins,Protests
+2018-09,Hauts-Bassins,Violence against civilians
+2018-09,Nord,Violence against civilians
+2018-09,Plateau-Central,Strategic developments
+2018-09,Sahel,Battles
+2018-09,Sahel,Explosions/Remote violence
+2018-09,Sahel,Strategic developments
+2018-09,Sahel,Violence against civilians
+2018-09,Sud-Ouest,Battles
+2018-09,Sud-Ouest,Strategic developments
+2018-09,Sud-Ouest,Violence against civilians
+2018-10,Boucle du Mouhoun,Battles
+2018-10,Boucle du Mouhoun,Riots
+2018-10,Cascades,Battles
+2018-10,Cascades,Protests
+2018-10,Centre,Protests
+2018-10,Centre,Strategic developments
+2018-10,Centre-Ouest,Protests
+2018-10,Centre-Sud,Protests
+2018-10,Est,Explosions/Remote violence
+2018-10,Est,Strategic developments
+2018-10,Est,Violence against civilians
+2018-10,Hauts-Bassins,Protests
+2018-10,Nord,Battles
+2018-10,Nord,Strategic developments
+2018-10,Nord,Violence against civilians
+2018-10,Plateau-Central,Protests
+2018-10,Sahel,Battles
+2018-10,Sahel,Explosions/Remote violence
+2018-10,Sahel,Strategic developments
+2018-10,Sahel,Violence against civilians
+2018-10,Sud-Ouest,Battles
+2018-10,Sud-Ouest,Protests
+2018-10,Sud-Ouest,Strategic developments
+2018-11,Boucle du Mouhoun,Battles
+2018-11,Boucle du Mouhoun,Protests
+2018-11,Boucle du Mouhoun,Riots
+2018-11,Boucle du Mouhoun,Violence against civilians
+2018-11,Cascades,Protests
+2018-11,Centre,Battles
+2018-11,Centre,Protests
+2018-11,Centre,Riots
+2018-11,Centre,Violence against civilians
+2018-11,Centre-Est,Battles
+2018-11,Centre-Est,Protests
+2018-11,Centre-Est,Riots
+2018-11,Centre-Est,Strategic developments
+2018-11,Centre-Nord,Battles
+2018-11,Centre-Nord,Protests
+2018-11,Centre-Ouest,Battles
+2018-11,Centre-Ouest,Protests
+2018-11,Est,Battles
+2018-11,Est,Protests
+2018-11,Est,Strategic developments
+2018-11,Est,Violence against civilians
+2018-11,Hauts-Bassins,Battles
+2018-11,Hauts-Bassins,Protests
+2018-11,Nord,Protests
+2018-11,Nord,Riots
+2018-11,Nord,Strategic developments
+2018-11,Nord,Violence against civilians
+2018-11,Plateau-Central,Protests
+2018-11,Sahel,Battles
+2018-11,Sahel,Explosions/Remote violence
+2018-11,Sahel,Protests
+2018-11,Sahel,Strategic developments
+2018-11,Sahel,Violence against civilians
+2018-11,Sud-Ouest,Protests
+2018-11,Sud-Ouest,Riots
+2018-11,Sud-Ouest,Strategic developments
+2018-12,Boucle du Mouhoun,Battles
+2018-12,Boucle du Mouhoun,Explosions/Remote violence
+2018-12,Boucle du Mouhoun,Protests
+2018-12,Boucle du Mouhoun,Riots
+2018-12,Boucle du Mouhoun,Strategic developments
+2018-12,Boucle du Mouhoun,Violence against civilians
+2018-12,Cascades,Protests
+2018-12,Centre,Protests
+2018-12,Centre,Riots
+2018-12,Centre,Strategic developments
+2018-12,Centre-Est,Protests
+2018-12,Centre-Nord,Riots
+2018-12,Centre-Nord,Violence against civilians
+2018-12,Est,Battles
+2018-12,Est,Explosions/Remote violence
+2018-12,Est,Protests
+2018-12,Est,Strategic developments
+2018-12,Est,Violence against civilians
+2018-12,Hauts-Bassins,Protests
+2018-12,Hauts-Bassins,Violence against civilians
+2018-12,Nord,Strategic developments
+2018-12,Nord,Violence against civilians
+2018-12,Plateau-Central,Protests
+2018-12,Sahel,Battles
+2018-12,Sahel,Explosions/Remote violence
+2018-12,Sahel,Strategic developments
+2018-12,Sahel,Violence against civilians
+2018-12,Sud-Ouest,Battles
+2018-12,Sud-Ouest,Protests
+2018-12,Sud-Ouest,Violence against civilians
+2019-01,Boucle du Mouhoun,Battles
+2019-01,Boucle du Mouhoun,Protests
+2019-01,Cascades,Battles
+2019-01,Centre,Protests
+2019-01,Centre-Est,Battles
+2019-01,Centre-Est,Explosions/Remote violence
+2019-01,Centre-Est,Protests
+2019-01,Centre-Est,Violence against civilians
+2019-01,Centre-Nord,Battles
+2019-01,Centre-Nord,Protests
+2019-01,Centre-Nord,Violence against civilians
+2019-01,Centre-Ouest,Protests
+2019-01,Centre-Sud,Protests
+2019-01,Est,Battles
+2019-01,Est,Strategic developments
+2019-01,Est,Violence against civilians
+2019-01,Hauts-Bassins,Protests
+2019-01,Hauts-Bassins,Riots
+2019-01,Nord,Protests
+2019-01,Nord,Violence against civilians
+2019-01,Plateau-Central,Protests
+2019-01,Sahel,Battles
+2019-01,Sahel,Explosions/Remote violence
+2019-01,Sahel,Protests
+2019-01,Sahel,Strategic developments
+2019-01,Sahel,Violence against civilians
+2019-01,Sud-Ouest,Protests
+2019-01,Sud-Ouest,Riots
+2019-01,Sud-Ouest,Violence against civilians
+2019-02,Boucle du Mouhoun,Protests
+2019-02,Boucle du Mouhoun,Violence against civilians
+2019-02,Cascades,Battles
+2019-02,Centre,Protests
+2019-02,Centre-Est,Battles
+2019-02,Centre-Est,Riots
+2019-02,Centre-Est,Strategic developments
+2019-02,Centre-Est,Violence against civilians
+2019-02,Centre-Nord,Battles
+2019-02,Centre-Nord,Protests
+2019-02,Centre-Nord,Violence against civilians
+2019-02,Est,Battles
+2019-02,Est,Strategic developments
+2019-02,Est,Violence against civilians
+2019-02,Hauts-Bassins,Protests
+2019-02,Hauts-Bassins,Riots
+2019-02,Nord,Battles
+2019-02,Nord,Strategic developments
+2019-02,Nord,Violence against civilians
+2019-02,Plateau-Central,Violence against civilians
+2019-02,Sahel,Battles
+2019-02,Sahel,Explosions/Remote violence
+2019-02,Sahel,Strategic developments
+2019-02,Sahel,Violence against civilians
+2019-02,Sud-Ouest,Protests
+2019-02,Sud-Ouest,Riots
+2019-02,Sud-Ouest,Violence against civilians
+2019-03,Boucle du Mouhoun,Battles
+2019-03,Cascades,Battles
+2019-03,Cascades,Riots
+2019-03,Centre,Protests
+2019-03,Centre,Riots
+2019-03,Centre-Est,Strategic developments
+2019-03,Centre-Est,Violence against civilians
+2019-03,Centre-Nord,Battles
+2019-03,Centre-Nord,Strategic developments
+2019-03,Centre-Nord,Violence against civilians
+2019-03,Est,Battles
+2019-03,Est,Explosions/Remote violence
+2019-03,Est,Strategic developments
+2019-03,Est,Violence against civilians
+2019-03,Hauts-Bassins,Protests
+2019-03,Nord,Battles
+2019-03,Nord,Violence against civilians
+2019-03,Sahel,Battles
+2019-03,Sahel,Explosions/Remote violence
+2019-03,Sahel,Violence against civilians
+2019-03,Sud-Ouest,Battles
+2019-03,Sud-Ouest,Strategic developments
+2019-04,Boucle du Mouhoun,Battles
+2019-04,Boucle du Mouhoun,Protests
+2019-04,Boucle du Mouhoun,Strategic developments
+2019-04,Centre,Protests
+2019-04,Centre-Est,Protests
+2019-04,Centre-Est,Violence against civilians
+2019-04,Centre-Nord,Battles
+2019-04,Centre-Nord,Strategic developments
+2019-04,Centre-Nord,Violence against civilians
+2019-04,Est,Battles
+2019-04,Est,Explosions/Remote violence
+2019-04,Est,Strategic developments
+2019-04,Est,Violence against civilians
+2019-04,Hauts-Bassins,Protests
+2019-04,Nord,Protests
+2019-04,Nord,Riots
+2019-04,Nord,Violence against civilians
+2019-04,Plateau-Central,Riots
+2019-04,Plateau-Central,Violence against civilians
+2019-04,Sahel,Battles
+2019-04,Sahel,Strategic developments
+2019-04,Sahel,Violence against civilians
+2019-04,Sud-Ouest,Battles
+2019-04,Sud-Ouest,Protests
+2019-04,Sud-Ouest,Riots
+2019-05,Boucle du Mouhoun,Strategic developments
+2019-05,Boucle du Mouhoun,Violence against civilians
+2019-05,Cascades,Battles
+2019-05,Centre,Protests
+2019-05,Centre,Riots
+2019-05,Centre-Nord,Battles
+2019-05,Centre-Nord,Strategic developments
+2019-05,Centre-Nord,Violence against civilians
+2019-05,Centre-Sud,Riots
+2019-05,Est,Battles
+2019-05,Est,Explosions/Remote violence
+2019-05,Est,Protests
+2019-05,Est,Strategic developments
+2019-05,Est,Violence against civilians
+2019-05,Hauts-Bassins,Protests
+2019-05,Hauts-Bassins,Riots
+2019-05,Hauts-Bassins,Strategic developments
+2019-05,Nord,Battles
+2019-05,Nord,Explosions/Remote violence
+2019-05,Nord,Protests
+2019-05,Nord,Strategic developments
+2019-05,Nord,Violence against civilians
+2019-05,Sahel,Battles
+2019-05,Sahel,Strategic developments
+2019-05,Sahel,Violence against civilians
+2019-05,Sud-Ouest,Protests
+2019-06,Boucle du Mouhoun,Battles
+2019-06,Boucle du Mouhoun,Violence against civilians
+2019-06,Cascades,Battles
+2019-06,Cascades,Riots
+2019-06,Cascades,Strategic developments
+2019-06,Centre,Protests
+2019-06,Centre,Riots
+2019-06,Centre-Est,Battles
+2019-06,Centre-Est,Strategic developments
+2019-06,Centre-Nord,Battles
+2019-06,Centre-Nord,Strategic developments
+2019-06,Centre-Nord,Violence against civilians
+2019-06,Est,Battles
+2019-06,Est,Explosions/Remote violence
+2019-06,Est,Strategic developments
+2019-06,Est,Violence against civilians
+2019-06,Hauts-Bassins,Violence against civilians
+2019-06,Nord,Violence against civilians
+2019-06,Plateau-Central,Protests
+2019-06,Sahel,Battles
+2019-06,Sahel,Explosions/Remote violence
+2019-06,Sahel,Strategic developments
+2019-06,Sahel,Violence against civilians
+2019-06,Sud-Ouest,Protests
+2019-06,Sud-Ouest,Riots
+2019-07,Boucle du Mouhoun,Battles
+2019-07,Boucle du Mouhoun,Explosions/Remote violence
+2019-07,Boucle du Mouhoun,Violence against civilians
+2019-07,Centre,Strategic developments
+2019-07,Centre,Violence against civilians
+2019-07,Centre-Est,Battles
+2019-07,Centre-Nord,Battles
+2019-07,Centre-Nord,Explosions/Remote violence
+2019-07,Centre-Nord,Protests
+2019-07,Centre-Nord,Strategic developments
+2019-07,Centre-Nord,Violence against civilians
+2019-07,Centre-Ouest,Battles
+2019-07,Centre-Sud,Battles
+2019-07,Est,Battles
+2019-07,Est,Strategic developments
+2019-07,Est,Violence against civilians
+2019-07,Hauts-Bassins,Battles
+2019-07,Nord,Battles
+2019-07,Nord,Violence against civilians
+2019-07,Sahel,Battles
+2019-07,Sahel,Explosions/Remote violence
+2019-07,Sahel,Strategic developments
+2019-07,Sahel,Violence against civilians
+2019-07,Sud-Ouest,Battles
+2019-07,Sud-Ouest,Protests
+2019-07,Sud-Ouest,Violence against civilians
+2019-08,Boucle du Mouhoun,Explosions/Remote violence
+2019-08,Cascades,Battles
+2019-08,Centre,Protests
+2019-08,Centre,Riots
+2019-08,Centre,Violence against civilians
+2019-08,Centre-Est,Violence against civilians
+2019-08,Centre-Nord,Battles
+2019-08,Centre-Nord,Strategic developments
+2019-08,Centre-Nord,Violence against civilians
+2019-08,Centre-Ouest,Violence against civilians
+2019-08,Centre-Sud,Battles
+2019-08,Est,Protests
+2019-08,Est,Violence against civilians
+2019-08,Hauts-Bassins,Riots
+2019-08,Nord,Protests
+2019-08,Nord,Riots
+2019-08,Nord,Violence against civilians
+2019-08,Sahel,Battles
+2019-08,Sahel,Explosions/Remote violence
+2019-08,Sahel,Strategic developments
+2019-08,Sahel,Violence against civilians
+2019-08,Sud-Ouest,Battles
+2019-09,Boucle du Mouhoun,Battles
+2019-09,Boucle du Mouhoun,Protests
+2019-09,Boucle du Mouhoun,Violence against civilians
+2019-09,Centre,Protests
+2019-09,Centre,Strategic developments
+2019-09,Centre-Nord,Battles
+2019-09,Centre-Nord,Explosions/Remote violence
+2019-09,Centre-Nord,Strategic developments
+2019-09,Centre-Nord,Violence against civilians
+2019-09,Centre-Ouest,Protests
+2019-09,Centre-Sud,Protests
+2019-09,Est,Battles
+2019-09,Est,Protests
+2019-09,Est,Violence against civilians
+2019-09,Hauts-Bassins,Protests
+2019-09,Nord,Battles
+2019-09,Nord,Protests
+2019-09,Nord,Strategic developments
+2019-09,Nord,Violence against civilians
+2019-09,Sahel,Battles
+2019-09,Sahel,Explosions/Remote violence
+2019-09,Sahel,Strategic developments
+2019-09,Sahel,Violence against civilians
+2019-09,Sud-Ouest,Battles
+2019-09,Sud-Ouest,Protests
+2019-10,Boucle du Mouhoun,Battles
+2019-10,Boucle du Mouhoun,Strategic developments
+2019-10,Boucle du Mouhoun,Violence against civilians
+2019-10,Cascades,Battles
+2019-10,Centre,Battles
+2019-10,Centre,Protests
+2019-10,Centre-Nord,Battles
+2019-10,Centre-Nord,Explosions/Remote violence
+2019-10,Centre-Nord,Protests
+2019-10,Centre-Nord,Violence against civilians
+2019-10,Centre-Ouest,Violence against civilians
+2019-10,Centre-Sud,Battles
+2019-10,Centre-Sud,Violence against civilians
+2019-10,Est,Battles
+2019-10,Est,Strategic developments
+2019-10,Est,Violence against civilians
+2019-10,Hauts-Bassins,Protests
+2019-10,Nord,Battles
+2019-10,Nord,Explosions/Remote violence
+2019-10,Nord,Protests
+2019-10,Nord,Strategic developments
+2019-10,Nord,Violence against civilians
+2019-10,Sahel,Battles
+2019-10,Sahel,Explosions/Remote violence
+2019-10,Sahel,Strategic developments
+2019-10,Sahel,Violence against civilians
+2019-11,Boucle du Mouhoun,Battles
+2019-11,Boucle du Mouhoun,Strategic developments
+2019-11,Boucle du Mouhoun,Violence against civilians
+2019-11,Cascades,Battles
+2019-11,Cascades,Violence against civilians
+2019-11,Centre,Protests
+2019-11,Centre-Est,Violence against civilians
+2019-11,Centre-Nord,Battles
+2019-11,Centre-Sud,Battles
+2019-11,Est,Battles
+2019-11,Est,Violence against civilians
+2019-11,Nord,Battles
+2019-11,Nord,Explosions/Remote violence
+2019-11,Nord,Strategic developments
+2019-11,Nord,Violence against civilians
+2019-11,Sahel,Battles
+2019-11,Sahel,Explosions/Remote violence
+2019-11,Sahel,Strategic developments
+2019-11,Sahel,Violence against civilians
+2019-12,Boucle du Mouhoun,Battles
+2019-12,Boucle du Mouhoun,Riots
+2019-12,Boucle du Mouhoun,Violence against civilians
+2019-12,Cascades,Battles
+2019-12,Cascades,Violence against civilians
+2019-12,Centre,Protests
+2019-12,Centre-Nord,Battles
+2019-12,Centre-Nord,Explosions/Remote violence
+2019-12,Centre-Nord,Protests
+2019-12,Centre-Nord,Strategic developments
+2019-12,Centre-Nord,Violence against civilians
+2019-12,Centre-Ouest,Protests
+2019-12,Est,Battles
+2019-12,Est,Strategic developments
+2019-12,Est,Violence against civilians
+2019-12,Hauts-Bassins,Battles
+2019-12,Nord,Battles
+2019-12,Nord,Explosions/Remote violence
+2019-12,Nord,Violence against civilians
+2019-12,Plateau-Central,Protests
+2019-12,Sahel,Battles
+2019-12,Sahel,Explosions/Remote violence
+2019-12,Sahel,Strategic developments
+2019-12,Sahel,Violence against civilians
+2019-12,Sud-Ouest,Battles
+2019-12,Sud-Ouest,Protests
+2019-12,Sud-Ouest,Violence against civilians
+2020-01,Boucle du Mouhoun,Battles
+2020-01,Boucle du Mouhoun,Explosions/Remote violence
+2020-01,Boucle du Mouhoun,Strategic developments
+2020-01,Boucle du Mouhoun,Violence against civilians
+2020-01,Cascades,Battles
+2020-01,Cascades,Explosions/Remote violence
+2020-01,Cascades,Violence against civilians
+2020-01,Centre,Explosions/Remote violence
+2020-01,Centre,Violence against civilians
+2020-01,Centre-Nord,Battles
+2020-01,Centre-Nord,Violence against civilians
+2020-01,Est,Battles
+2020-01,Est,Explosions/Remote violence
+2020-01,Est,Protests
+2020-01,Est,Strategic developments
+2020-01,Est,Violence against civilians
+2020-01,Hauts-Bassins,Protests
+2020-01,Nord,Battles
+2020-01,Nord,Strategic developments
+2020-01,Nord,Violence against civilians
+2020-01,Sahel,Battles
+2020-01,Sahel,Explosions/Remote violence
+2020-01,Sahel,Strategic developments
+2020-01,Sahel,Violence against civilians
+2020-01,Sud-Ouest,Protests
+2020-01,Sud-Ouest,Violence against civilians
+2020-02,Boucle du Mouhoun,Battles
+2020-02,Boucle du Mouhoun,Riots
+2020-02,Boucle du Mouhoun,Violence against civilians
+2020-02,Cascades,Battles
+2020-02,Cascades,Explosions/Remote violence
+2020-02,Cascades,Strategic developments
+2020-02,Centre,Protests
+2020-02,Centre,Riots
+2020-02,Centre-Nord,Battles
+2020-02,Centre-Nord,Violence against civilians
+2020-02,Est,Battles
+2020-02,Est,Explosions/Remote violence
+2020-02,Est,Protests
+2020-02,Est,Violence against civilians
+2020-02,Hauts-Bassins,Protests
+2020-02,Nord,Explosions/Remote violence
+2020-02,Nord,Violence against civilians
+2020-02,Plateau-Central,Riots
+2020-02,Sahel,Battles
+2020-02,Sahel,Explosions/Remote violence
+2020-02,Sahel,Strategic developments
+2020-02,Sahel,Violence against civilians
+2020-02,Sud-Ouest,Protests
+2020-03,Boucle du Mouhoun,Battles
+2020-03,Boucle du Mouhoun,Explosions/Remote violence
+2020-03,Cascades,Protests
+2020-03,Cascades,Violence against civilians
+2020-03,Centre,Protests
+2020-03,Centre,Riots
+2020-03,Centre,Strategic developments
+2020-03,Centre-Nord,Battles
+2020-03,Centre-Nord,Protests
+2020-03,Centre-Nord,Violence against civilians
+2020-03,Centre-Ouest,Protests
+2020-03,Est,Battles
+2020-03,Est,Protests
+2020-03,Est,Strategic developments
+2020-03,Est,Violence against civilians
+2020-03,Hauts-Bassins,Protests
+2020-03,Hauts-Bassins,Violence against civilians
+2020-03,Nord,Battles
+2020-03,Nord,Explosions/Remote violence
+2020-03,Nord,Protests
+2020-03,Nord,Violence against civilians
+2020-03,Plateau-Central,Protests
+2020-03,Sahel,Battles
+2020-03,Sahel,Explosions/Remote violence
+2020-03,Sahel,Protests
+2020-03,Sahel,Strategic developments
+2020-03,Sahel,Violence against civilians
+2020-03,Sud-Ouest,Protests
+2020-04,Boucle du Mouhoun,Battles
+2020-04,Boucle du Mouhoun,Explosions/Remote violence
+2020-04,Boucle du Mouhoun,Riots
+2020-04,Boucle du Mouhoun,Strategic developments
+2020-04,Boucle du Mouhoun,Violence against civilians
+2020-04,Cascades,Battles
+2020-04,Centre,Protests
+2020-04,Centre,Riots
+2020-04,Centre-Nord,Battles
+2020-04,Centre-Nord,Protests
+2020-04,Centre-Nord,Strategic developments
+2020-04,Centre-Nord,Violence against civilians
+2020-04,Est,Battles
+2020-04,Est,Strategic developments
+2020-04,Est,Violence against civilians
+2020-04,Nord,Battles
+2020-04,Nord,Explosions/Remote violence
+2020-04,Nord,Violence against civilians
+2020-04,Sahel,Battles
+2020-04,Sahel,Explosions/Remote violence
+2020-04,Sahel,Strategic developments
+2020-04,Sahel,Violence against civilians
+2020-04,Sud-Ouest,Battles
+2020-04,Sud-Ouest,Riots
+2020-05,Boucle du Mouhoun,Battles
+2020-05,Boucle du Mouhoun,Violence against civilians
+2020-05,Cascades,Battles
+2020-05,Cascades,Explosions/Remote violence
+2020-05,Cascades,Riots
+2020-05,Centre,Riots
+2020-05,Centre-Est,Battles
+2020-05,Centre-Est,Protests
+2020-05,Centre-Est,Violence against civilians
+2020-05,Centre-Nord,Battles
+2020-05,Centre-Nord,Violence against civilians
+2020-05,Est,Battles
+2020-05,Est,Protests
+2020-05,Est,Strategic developments
+2020-05,Est,Violence against civilians
+2020-05,Hauts-Bassins,Battles
+2020-05,Hauts-Bassins,Protests
+2020-05,Hauts-Bassins,Violence against civilians
+2020-05,Nord,Battles
+2020-05,Nord,Explosions/Remote violence
+2020-05,Sahel,Battles
+2020-05,Sahel,Explosions/Remote violence
+2020-05,Sahel,Strategic developments
+2020-05,Sahel,Violence against civilians
+2020-06,Boucle du Mouhoun,Battles
+2020-06,Boucle du Mouhoun,Strategic developments
+2020-06,Boucle du Mouhoun,Violence against civilians
+2020-06,Centre,Protests
+2020-06,Centre-Nord,Battles
+2020-06,Centre-Nord,Strategic developments
+2020-06,Centre-Nord,Violence against civilians
+2020-06,Centre-Ouest,Protests
+2020-06,Centre-Ouest,Strategic developments
+2020-06,Est,Battles
+2020-06,Est,Protests
+2020-06,Est,Strategic developments
+2020-06,Est,Violence against civilians
+2020-06,Hauts-Bassins,Protests
+2020-06,Hauts-Bassins,Strategic developments
+2020-06,Hauts-Bassins,Violence against civilians
+2020-06,Nord,Battles
+2020-06,Nord,Explosions/Remote violence
+2020-06,Nord,Violence against civilians
+2020-06,Sahel,Battles
+2020-06,Sahel,Explosions/Remote violence
+2020-06,Sahel,Strategic developments
+2020-06,Sahel,Violence against civilians
+2020-07,Boucle du Mouhoun,Battles
+2020-07,Boucle du Mouhoun,Strategic developments
+2020-07,Boucle du Mouhoun,Violence against civilians
+2020-07,Centre,Battles
+2020-07,Centre,Protests
+2020-07,Centre-Est,Violence against civilians
+2020-07,Centre-Nord,Battles
+2020-07,Centre-Nord,Riots
+2020-07,Centre-Nord,Strategic developments
+2020-07,Centre-Nord,Violence against civilians
+2020-07,Centre-Ouest,Protests
+2020-07,Est,Battles
+2020-07,Est,Explosions/Remote violence
+2020-07,Est,Strategic developments
+2020-07,Est,Violence against civilians
+2020-07,Hauts-Bassins,Protests
+2020-07,Hauts-Bassins,Riots
+2020-07,Nord,Battles
+2020-07,Nord,Strategic developments
+2020-07,Nord,Violence against civilians
+2020-07,Sahel,Battles
+2020-07,Sahel,Explosions/Remote violence
+2020-07,Sahel,Strategic developments
+2020-07,Sahel,Violence against civilians
+2020-07,Sud-Ouest,Battles
+2020-08,Boucle du Mouhoun,Battles
+2020-08,Boucle du Mouhoun,Violence against civilians
+2020-08,Centre,Protests
+2020-08,Centre,Riots
+2020-08,Centre,Violence against civilians
+2020-08,Centre-Est,Violence against civilians
+2020-08,Centre-Nord,Battles
+2020-08,Centre-Nord,Explosions/Remote violence
+2020-08,Centre-Nord,Protests
+2020-08,Centre-Nord,Strategic developments
+2020-08,Centre-Nord,Violence against civilians
+2020-08,Est,Battles
+2020-08,Est,Explosions/Remote violence
+2020-08,Est,Riots
+2020-08,Est,Strategic developments
+2020-08,Est,Violence against civilians
+2020-08,Nord,Battles
+2020-08,Nord,Explosions/Remote violence
+2020-08,Nord,Protests
+2020-08,Nord,Strategic developments
+2020-08,Nord,Violence against civilians
+2020-08,Sahel,Battles
+2020-08,Sahel,Explosions/Remote violence
+2020-08,Sahel,Strategic developments
+2020-08,Sahel,Violence against civilians
+2020-09,Boucle du Mouhoun,Explosions/Remote violence
+2020-09,Boucle du Mouhoun,Violence against civilians
+2020-09,Cascades,Battles
+2020-09,Centre,Protests
+2020-09,Centre-Est,Protests
+2020-09,Centre-Est,Violence against civilians
+2020-09,Centre-Nord,Battles
+2020-09,Centre-Nord,Protests
+2020-09,Centre-Nord,Strategic developments
+2020-09,Centre-Nord,Violence against civilians
+2020-09,Centre-Ouest,Violence against civilians
+2020-09,Est,Battles
+2020-09,Est,Explosions/Remote violence
+2020-09,Est,Protests
+2020-09,Est,Strategic developments
+2020-09,Est,Violence against civilians
+2020-09,Hauts-Bassins,Battles
+2020-09,Hauts-Bassins,Protests
+2020-09,Nord,Battles
+2020-09,Nord,Explosions/Remote violence
+2020-09,Sahel,Battles
+2020-09,Sahel,Explosions/Remote violence
+2020-09,Sahel,Strategic developments
+2020-09,Sahel,Violence against civilians
+2020-10,Boucle du Mouhoun,Violence against civilians
+2020-10,Centre,Protests
+2020-10,Centre-Nord,Violence against civilians
+2020-10,Centre-Ouest,Protests
+2020-10,Est,Battles
+2020-10,Est,Violence against civilians
+2020-10,Nord,Battles
+2020-10,Nord,Strategic developments
+2020-10,Sahel,Battles
+2020-10,Sahel,Explosions/Remote violence
+2020-10,Sahel,Riots
+2020-10,Sahel,Strategic developments
+2020-10,Sahel,Violence against civilians
+2020-10,Sud-Ouest,Protests
+2020-11,Boucle du Mouhoun,Strategic developments
+2020-11,Boucle du Mouhoun,Violence against civilians
+2020-11,Centre,Protests
+2020-11,Centre,Violence against civilians
+2020-11,Centre-Nord,Battles
+2020-11,Centre-Nord,Violence against civilians
+2020-11,Est,Battles
+2020-11,Est,Strategic developments
+2020-11,Est,Violence against civilians
+2020-11,Hauts-Bassins,Riots
+2020-11,Nord,Battles
+2020-11,Nord,Protests
+2020-11,Nord,Strategic developments
+2020-11,Nord,Violence against civilians
+2020-11,Sahel,Battles
+2020-11,Sahel,Explosions/Remote violence
+2020-11,Sahel,Riots
+2020-11,Sahel,Strategic developments
+2020-11,Sahel,Violence against civilians
+2020-12,Boucle du Mouhoun,Protests
+2020-12,Boucle du Mouhoun,Strategic developments
+2020-12,Boucle du Mouhoun,Violence against civilians
+2020-12,Cascades,Violence against civilians
+2020-12,Centre,Protests
+2020-12,Centre,Riots
+2020-12,Centre,Violence against civilians
+2020-12,Centre-Nord,Battles
+2020-12,Centre-Nord,Strategic developments
+2020-12,Centre-Nord,Violence against civilians
+2020-12,Centre-Sud,Battles
+2020-12,Est,Violence against civilians
+2020-12,Hauts-Bassins,Protests
+2020-12,Nord,Violence against civilians
+2020-12,Sahel,Battles
+2020-12,Sahel,Explosions/Remote violence
+2020-12,Sahel,Strategic developments
+2020-12,Sahel,Violence against civilians
+2021-01,Boucle du Mouhoun,Strategic developments
+2021-01,Boucle du Mouhoun,Violence against civilians
+2021-01,Cascades,Violence against civilians
+2021-01,Centre,Protests
+2021-01,Centre-Nord,Battles
+2021-01,Centre-Sud,Violence against civilians
+2021-01,Est,Battles
+2021-01,Est,Protests
+2021-01,Est,Strategic developments
+2021-01,Est,Violence against civilians
+2021-01,Hauts-Bassins,Battles
+2021-01,Hauts-Bassins,Protests
+2021-01,Nord,Battles
+2021-01,Nord,Violence against civilians
+2021-01,Sahel,Battles
+2021-01,Sahel,Explosions/Remote violence
+2021-01,Sahel,Strategic developments
+2021-01,Sahel,Violence against civilians
+2021-01,Sud-Ouest,Battles
+2021-01,Sud-Ouest,Riots
+2021-01,Sud-Ouest,Violence against civilians
+2021-02,Boucle du Mouhoun,Strategic developments
+2021-02,Boucle du Mouhoun,Violence against civilians
+2021-02,Cascades,Battles
+2021-02,Centre,Protests
+2021-02,Centre,Violence against civilians
+2021-02,Centre-Est,Protests
+2021-02,Centre-Nord,Battles
+2021-02,Centre-Nord,Protests
+2021-02,Centre-Nord,Strategic developments
+2021-02,Centre-Nord,Violence against civilians
+2021-02,Centre-Sud,Riots
+2021-02,Est,Battles
+2021-02,Est,Protests
+2021-02,Est,Strategic developments
+2021-02,Est,Violence against civilians
+2021-02,Hauts-Bassins,Riots
+2021-02,Sahel,Battles
+2021-02,Sahel,Explosions/Remote violence
+2021-02,Sahel,Strategic developments
+2021-02,Sahel,Violence against civilians
+2021-03,Cascades,Violence against civilians
+2021-03,Centre,Protests
+2021-03,Centre,Riots
+2021-03,Centre-Nord,Battles
+2021-03,Centre-Nord,Protests
+2021-03,Centre-Nord,Strategic developments
+2021-03,Centre-Nord,Violence against civilians
+2021-03,Est,Battles
+2021-03,Est,Protests
+2021-03,Est,Strategic developments
+2021-03,Est,Violence against civilians
+2021-03,Hauts-Bassins,Protests
+2021-03,Hauts-Bassins,Riots
+2021-03,Nord,Battles
+2021-03,Nord,Protests
+2021-03,Nord,Riots
+2021-03,Nord,Strategic developments
+2021-03,Nord,Violence against civilians
+2021-03,Sahel,Battles
+2021-03,Sahel,Explosions/Remote violence
+2021-03,Sahel,Strategic developments
+2021-03,Sahel,Violence against civilians
+2021-03,Sud-Ouest,Battles
+2021-03,Sud-Ouest,Protests
+2021-04,Boucle du Mouhoun,Strategic developments
+2021-04,Boucle du Mouhoun,Violence against civilians
+2021-04,Cascades,Battles
+2021-04,Cascades,Explosions/Remote violence
+2021-04,Cascades,Violence against civilians
+2021-04,Centre,Protests
+2021-04,Centre,Riots
+2021-04,Centre-Est,Strategic developments
+2021-04,Centre-Est,Violence against civilians
+2021-04,Centre-Nord,Battles
+2021-04,Centre-Nord,Explosions/Remote violence
+2021-04,Centre-Nord,Protests
+2021-04,Centre-Nord,Strategic developments
+2021-04,Centre-Nord,Violence against civilians
+2021-04,Centre-Ouest,Protests
+2021-04,Centre-Sud,Violence against civilians
+2021-04,Est,Battles
+2021-04,Est,Explosions/Remote violence
+2021-04,Est,Protests
+2021-04,Est,Strategic developments
+2021-04,Est,Violence against civilians
+2021-04,Hauts-Bassins,Protests
+2021-04,Nord,Battles
+2021-04,Nord,Strategic developments
+2021-04,Nord,Violence against civilians
+2021-04,Sahel,Battles
+2021-04,Sahel,Explosions/Remote violence
+2021-04,Sahel,Strategic developments
+2021-04,Sahel,Violence against civilians
+2021-04,Sud-Ouest,Riots
+2021-05,Boucle du Mouhoun,Strategic developments
+2021-05,Boucle du Mouhoun,Violence against civilians
+2021-05,Cascades,Riots
+2021-05,Cascades,Violence against civilians
+2021-05,Centre,Protests
+2021-05,Centre,Riots
+2021-05,Centre-Est,Strategic developments
+2021-05,Centre-Nord,Battles
+2021-05,Centre-Nord,Protests
+2021-05,Centre-Nord,Riots
+2021-05,Centre-Nord,Strategic developments
+2021-05,Centre-Nord,Violence against civilians
+2021-05,Centre-Ouest,Battles
+2021-05,Centre-Ouest,Protests
+2021-05,Centre-Ouest,Riots
+2021-05,Centre-Sud,Riots
+2021-05,Est,Battles
+2021-05,Est,Explosions/Remote violence
+2021-05,Est,Protests
+2021-05,Est,Strategic developments
+2021-05,Est,Violence against civilians
+2021-05,Hauts-Bassins,Protests
+2021-05,Nord,Battles
+2021-05,Nord,Explosions/Remote violence
+2021-05,Nord,Protests
+2021-05,Nord,Riots
+2021-05,Nord,Strategic developments
+2021-05,Nord,Violence against civilians
+2021-05,Sahel,Battles
+2021-05,Sahel,Explosions/Remote violence
+2021-05,Sahel,Strategic developments
+2021-05,Sahel,Violence against civilians
+2021-05,Sud-Ouest,Protests
+2021-06,Boucle du Mouhoun,Battles
+2021-06,Boucle du Mouhoun,Violence against civilians
+2021-06,Cascades,Battles
+2021-06,Cascades,Explosions/Remote violence
+2021-06,Cascades,Strategic developments
+2021-06,Cascades,Violence against civilians
+2021-06,Centre,Riots
+2021-06,Centre-Est,Violence against civilians
+2021-06,Centre-Nord,Battles
+2021-06,Centre-Nord,Explosions/Remote violence
+2021-06,Centre-Nord,Protests
+2021-06,Centre-Nord,Strategic developments
+2021-06,Centre-Nord,Violence against civilians
+2021-06,Centre-Ouest,Strategic developments
+2021-06,Est,Battles
+2021-06,Est,Explosions/Remote violence
+2021-06,Est,Protests
+2021-06,Est,Riots
+2021-06,Est,Strategic developments
+2021-06,Est,Violence against civilians
+2021-06,Hauts-Bassins,Protests
+2021-06,Nord,Battles
+2021-06,Nord,Explosions/Remote violence
+2021-06,Nord,Protests
+2021-06,Nord,Riots
+2021-06,Nord,Strategic developments
+2021-06,Nord,Violence against civilians
+2021-06,Sahel,Battles
+2021-06,Sahel,Explosions/Remote violence
+2021-06,Sahel,Protests
+2021-06,Sahel,Strategic developments
+2021-06,Sahel,Violence against civilians
+2021-07,Boucle du Mouhoun,Protests
+2021-07,Boucle du Mouhoun,Violence against civilians
+2021-07,Cascades,Protests
+2021-07,Cascades,Strategic developments
+2021-07,Cascades,Violence against civilians
+2021-07,Centre,Protests
+2021-07,Centre-Est,Protests
+2021-07,Centre-Nord,Battles
+2021-07,Centre-Nord,Explosions/Remote violence
+2021-07,Centre-Nord,Protests
+2021-07,Centre-Nord,Strategic developments
+2021-07,Centre-Nord,Violence against civilians
+2021-07,Centre-Sud,Protests
+2021-07,Centre-Sud,Strategic developments
+2021-07,Centre-Sud,Violence against civilians
+2021-07,Est,Battles
+2021-07,Est,Explosions/Remote violence
+2021-07,Est,Protests
+2021-07,Est,Strategic developments
+2021-07,Est,Violence against civilians
+2021-07,Hauts-Bassins,Protests
+2021-07,Nord,Battles
+2021-07,Nord,Explosions/Remote violence
+2021-07,Nord,Protests
+2021-07,Nord,Strategic developments
+2021-07,Nord,Violence against civilians
+2021-07,Plateau-Central,Protests
+2021-07,Sahel,Battles
+2021-07,Sahel,Explosions/Remote violence
+2021-07,Sahel,Protests
+2021-07,Sahel,Strategic developments
+2021-07,Sahel,Violence against civilians
+2021-07,Sud-Ouest,Protests
+2021-07,Sud-Ouest,Violence against civilians
+2021-08,Boucle du Mouhoun,Battles
+2021-08,Boucle du Mouhoun,Explosions/Remote violence
+2021-08,Boucle du Mouhoun,Protests
+2021-08,Boucle du Mouhoun,Riots
+2021-08,Boucle du Mouhoun,Violence against civilians
+2021-08,Cascades,Explosions/Remote violence
+2021-08,Centre,Protests
+2021-08,Centre,Riots
+2021-08,Centre-Est,Explosions/Remote violence
+2021-08,Centre-Est,Riots
+2021-08,Centre-Est,Violence against civilians
+2021-08,Centre-Nord,Battles
+2021-08,Centre-Nord,Explosions/Remote violence
+2021-08,Centre-Nord,Protests
+2021-08,Centre-Nord,Strategic developments
+2021-08,Centre-Nord,Violence against civilians
+2021-08,Centre-Ouest,Protests
+2021-08,Centre-Sud,Battles
+2021-08,Est,Battles
+2021-08,Est,Explosions/Remote violence
+2021-08,Est,Strategic developments
+2021-08,Est,Violence against civilians
+2021-08,Nord,Battles
+2021-08,Nord,Protests
+2021-08,Nord,Riots
+2021-08,Nord,Strategic developments
+2021-08,Sahel,Battles
+2021-08,Sahel,Explosions/Remote violence
+2021-08,Sahel,Protests
+2021-08,Sahel,Strategic developments
+2021-08,Sahel,Violence against civilians
+2021-08,Sud-Ouest,Violence against civilians
+2021-09,Boucle du Mouhoun,Explosions/Remote violence
+2021-09,Boucle du Mouhoun,Strategic developments
+2021-09,Boucle du Mouhoun,Violence against civilians
+2021-09,Cascades,Battles
+2021-09,Cascades,Explosions/Remote violence
+2021-09,Cascades,Violence against civilians
+2021-09,Centre,Riots
+2021-09,Centre,Violence against civilians
+2021-09,Centre-Est,Violence against civilians
+2021-09,Centre-Nord,Battles
+2021-09,Centre-Nord,Explosions/Remote violence
+2021-09,Centre-Nord,Riots
+2021-09,Centre-Nord,Strategic developments
+2021-09,Centre-Nord,Violence against civilians
+2021-09,Centre-Ouest,Protests
+2021-09,Est,Battles
+2021-09,Est,Explosions/Remote violence
+2021-09,Est,Strategic developments
+2021-09,Est,Violence against civilians
+2021-09,Hauts-Bassins,Protests
+2021-09,Hauts-Bassins,Riots
+2021-09,Nord,Explosions/Remote violence
+2021-09,Nord,Strategic developments
+2021-09,Nord,Violence against civilians
+2021-09,Sahel,Battles
+2021-09,Sahel,Explosions/Remote violence
+2021-09,Sahel,Protests
+2021-09,Sahel,Strategic developments
+2021-09,Sahel,Violence against civilians
+2021-09,Sud-Ouest,Protests
+2021-10,Boucle du Mouhoun,Battles
+2021-10,Boucle du Mouhoun,Explosions/Remote violence
+2021-10,Boucle du Mouhoun,Strategic developments
+2021-10,Boucle du Mouhoun,Violence against civilians
+2021-10,Cascades,Battles
+2021-10,Cascades,Explosions/Remote violence
+2021-10,Cascades,Strategic developments
+2021-10,Cascades,Violence against civilians
+2021-10,Centre,Protests
+2021-10,Centre-Est,Violence against civilians
+2021-10,Centre-Nord,Battles
+2021-10,Centre-Nord,Explosions/Remote violence
+2021-10,Centre-Nord,Strategic developments
+2021-10,Centre-Nord,Violence against civilians
+2021-10,Centre-Sud,Riots
+2021-10,Centre-Sud,Violence against civilians
+2021-10,Est,Battles
+2021-10,Est,Explosions/Remote violence
+2021-10,Est,Protests
+2021-10,Est,Strategic developments
+2021-10,Est,Violence against civilians
+2021-10,Hauts-Bassins,Protests
+2021-10,Nord,Battles
+2021-10,Nord,Explosions/Remote violence
+2021-10,Nord,Strategic developments
+2021-10,Nord,Violence against civilians
+2021-10,Sahel,Battles
+2021-10,Sahel,Explosions/Remote violence
+2021-10,Sahel,Strategic developments
+2021-10,Sahel,Violence against civilians
+2021-10,Sud-Ouest,Protests
+2021-10,Sud-Ouest,Strategic developments
+2021-11,Boucle du Mouhoun,Battles
+2021-11,Boucle du Mouhoun,Explosions/Remote violence
+2021-11,Boucle du Mouhoun,Protests
+2021-11,Boucle du Mouhoun,Strategic developments
+2021-11,Boucle du Mouhoun,Violence against civilians
+2021-11,Cascades,Battles
+2021-11,Cascades,Explosions/Remote violence
+2021-11,Cascades,Protests
+2021-11,Cascades,Strategic developments
+2021-11,Cascades,Violence against civilians
+2021-11,Centre,Protests
+2021-11,Centre,Riots
+2021-11,Centre-Nord,Battles
+2021-11,Centre-Nord,Explosions/Remote violence
+2021-11,Centre-Nord,Protests
+2021-11,Centre-Nord,Riots
+2021-11,Centre-Nord,Strategic developments
+2021-11,Centre-Nord,Violence against civilians
+2021-11,Centre-Ouest,Protests
+2021-11,Centre-Ouest,Riots
+2021-11,Est,Battles
+2021-11,Est,Explosions/Remote violence
+2021-11,Est,Protests
+2021-11,Est,Riots
+2021-11,Est,Strategic developments
+2021-11,Est,Violence against civilians
+2021-11,Hauts-Bassins,Battles
+2021-11,Hauts-Bassins,Protests
+2021-11,Hauts-Bassins,Riots
+2021-11,Hauts-Bassins,Strategic developments
+2021-11,Nord,Battles
+2021-11,Nord,Explosions/Remote violence
+2021-11,Nord,Protests
+2021-11,Nord,Strategic developments
+2021-11,Nord,Violence against civilians
+2021-11,Plateau-Central,Protests
+2021-11,Sahel,Battles
+2021-11,Sahel,Explosions/Remote violence
+2021-11,Sahel,Protests
+2021-11,Sahel,Strategic developments
+2021-11,Sahel,Violence against civilians
+2021-11,Sud-Ouest,Battles
+2021-11,Sud-Ouest,Strategic developments
+2021-11,Sud-Ouest,Violence against civilians
+2021-12,Boucle du Mouhoun,Battles
+2021-12,Boucle du Mouhoun,Explosions/Remote violence
+2021-12,Boucle du Mouhoun,Strategic developments
+2021-12,Boucle du Mouhoun,Violence against civilians
+2021-12,Cascades,Explosions/Remote violence
+2021-12,Cascades,Strategic developments
+2021-12,Cascades,Violence against civilians
+2021-12,Centre,Protests
+2021-12,Centre-Est,Explosions/Remote violence
+2021-12,Centre-Est,Strategic developments
+2021-12,Centre-Est,Violence against civilians
+2021-12,Centre-Nord,Battles
+2021-12,Centre-Nord,Explosions/Remote violence
+2021-12,Centre-Nord,Protests
+2021-12,Centre-Nord,Riots
+2021-12,Centre-Nord,Strategic developments
+2021-12,Centre-Nord,Violence against civilians
+2021-12,Centre-Ouest,Protests
+2021-12,Est,Battles
+2021-12,Est,Explosions/Remote violence
+2021-12,Est,Strategic developments
+2021-12,Est,Violence against civilians
+2021-12,Nord,Battles
+2021-12,Nord,Explosions/Remote violence
+2021-12,Nord,Protests
+2021-12,Nord,Strategic developments
+2021-12,Nord,Violence against civilians
+2021-12,Sahel,Battles
+2021-12,Sahel,Explosions/Remote violence
+2021-12,Sahel,Protests
+2021-12,Sahel,Strategic developments
+2021-12,Sahel,Violence against civilians
+2021-12,Sud-Ouest,Riots
+2021-12,Sud-Ouest,Strategic developments
+2021-12,Sud-Ouest,Violence against civilians
+2022-01,Boucle du Mouhoun,Battles
+2022-01,Boucle du Mouhoun,Explosions/Remote violence
+2022-01,Boucle du Mouhoun,Strategic developments
+2022-01,Boucle du Mouhoun,Violence against civilians
+2022-01,Cascades,Battles
+2022-01,Cascades,Explosions/Remote violence
+2022-01,Cascades,Strategic developments
+2022-01,Cascades,Violence against civilians
+2022-01,Centre,Battles
+2022-01,Centre,Protests
+2022-01,Centre,Riots
+2022-01,Centre,Strategic developments
+2022-01,Centre-Est,Battles
+2022-01,Centre-Est,Protests
+2022-01,Centre-Est,Strategic developments
+2022-01,Centre-Nord,Battles
+2022-01,Centre-Nord,Explosions/Remote violence
+2022-01,Centre-Nord,Protests
+2022-01,Centre-Nord,Riots
+2022-01,Centre-Nord,Strategic developments
+2022-01,Centre-Nord,Violence against civilians
+2022-01,Centre-Sud,Protests
+2022-01,Est,Battles
+2022-01,Est,Explosions/Remote violence
+2022-01,Est,Protests
+2022-01,Est,Strategic developments
+2022-01,Est,Violence against civilians
+2022-01,Hauts-Bassins,Battles
+2022-01,Hauts-Bassins,Riots
+2022-01,Nord,Explosions/Remote violence
+2022-01,Nord,Protests
+2022-01,Nord,Riots
+2022-01,Nord,Strategic developments
+2022-01,Nord,Violence against civilians
+2022-01,Plateau-Central,Protests
+2022-01,Sahel,Battles
+2022-01,Sahel,Explosions/Remote violence
+2022-01,Sahel,Protests
+2022-01,Sahel,Strategic developments
+2022-01,Sahel,Violence against civilians
+2022-01,Sud-Ouest,Battles
+2022-01,Sud-Ouest,Explosions/Remote violence
+2022-01,Sud-Ouest,Strategic developments
+2022-02,Boucle du Mouhoun,Battles
+2022-02,Boucle du Mouhoun,Explosions/Remote violence
+2022-02,Boucle du Mouhoun,Protests
+2022-02,Boucle du Mouhoun,Strategic developments
+2022-02,Boucle du Mouhoun,Violence against civilians
+2022-02,Cascades,Battles
+2022-02,Cascades,Explosions/Remote violence
+2022-02,Cascades,Violence against civilians
+2022-02,Centre,Protests
+2022-02,Centre-Est,Battles
+2022-02,Centre-Est,Explosions/Remote violence
+2022-02,Centre-Est,Protests
+2022-02,Centre-Est,Strategic developments
+2022-02,Centre-Nord,Battles
+2022-02,Centre-Nord,Explosions/Remote violence
+2022-02,Centre-Nord,Strategic developments
+2022-02,Centre-Nord,Violence against civilians
+2022-02,Centre-Ouest,Protests
+2022-02,Centre-Sud,Protests
+2022-02,Est,Battles
+2022-02,Est,Explosions/Remote violence
+2022-02,Est,Protests
+2022-02,Est,Strategic developments
+2022-02,Est,Violence against civilians
+2022-02,Hauts-Bassins,Battles
+2022-02,Hauts-Bassins,Protests
+2022-02,Hauts-Bassins,Strategic developments
+2022-02,Hauts-Bassins,Violence against civilians
+2022-02,Nord,Battles
+2022-02,Nord,Explosions/Remote violence
+2022-02,Nord,Protests
+2022-02,Nord,Strategic developments
+2022-02,Nord,Violence against civilians
+2022-02,Sahel,Battles
+2022-02,Sahel,Explosions/Remote violence
+2022-02,Sahel,Strategic developments
+2022-02,Sahel,Violence against civilians
+2022-02,Sud-Ouest,Battles
+2022-02,Sud-Ouest,Explosions/Remote violence
+2022-02,Sud-Ouest,Protests
+2022-02,Sud-Ouest,Strategic developments
+2022-02,Sud-Ouest,Violence against civilians
+2022-03,Boucle du Mouhoun,Battles
+2022-03,Boucle du Mouhoun,Explosions/Remote violence
+2022-03,Boucle du Mouhoun,Strategic developments
+2022-03,Boucle du Mouhoun,Violence against civilians
+2022-03,Cascades,Battles
+2022-03,Cascades,Explosions/Remote violence
+2022-03,Cascades,Violence against civilians
+2022-03,Centre,Protests
+2022-03,Centre-Est,Battles
+2022-03,Centre-Est,Explosions/Remote violence
+2022-03,Centre-Est,Riots
+2022-03,Centre-Est,Strategic developments
+2022-03,Centre-Est,Violence against civilians
+2022-03,Centre-Nord,Battles
+2022-03,Centre-Nord,Explosions/Remote violence
+2022-03,Centre-Nord,Strategic developments
+2022-03,Centre-Nord,Violence against civilians
+2022-03,Centre-Sud,Protests
+2022-03,Est,Battles
+2022-03,Est,Explosions/Remote violence
+2022-03,Est,Protests
+2022-03,Est,Riots
+2022-03,Est,Strategic developments
+2022-03,Est,Violence against civilians
+2022-03,Hauts-Bassins,Protests
+2022-03,Hauts-Bassins,Strategic developments
+2022-03,Hauts-Bassins,Violence against civilians
+2022-03,Nord,Battles
+2022-03,Nord,Explosions/Remote violence
+2022-03,Nord,Protests
+2022-03,Nord,Strategic developments
+2022-03,Nord,Violence against civilians
+2022-03,Sahel,Battles
+2022-03,Sahel,Explosions/Remote violence
+2022-03,Sahel,Strategic developments
+2022-03,Sahel,Violence against civilians
+2022-03,Sud-Ouest,Battles
+2022-03,Sud-Ouest,Explosions/Remote violence
+2022-03,Sud-Ouest,Strategic developments
+2022-04,Boucle du Mouhoun,Battles
+2022-04,Boucle du Mouhoun,Explosions/Remote violence
+2022-04,Boucle du Mouhoun,Strategic developments
+2022-04,Boucle du Mouhoun,Violence against civilians
+2022-04,Cascades,Strategic developments
+2022-04,Cascades,Violence against civilians
+2022-04,Centre,Protests
+2022-04,Centre-Est,Explosions/Remote violence
+2022-04,Centre-Est,Strategic developments
+2022-04,Centre-Est,Violence against civilians
+2022-04,Centre-Nord,Battles
+2022-04,Centre-Nord,Explosions/Remote violence
+2022-04,Centre-Nord,Strategic developments
+2022-04,Centre-Nord,Violence against civilians
+2022-04,Est,Battles
+2022-04,Est,Explosions/Remote violence
+2022-04,Est,Strategic developments
+2022-04,Est,Violence against civilians
+2022-04,Hauts-Bassins,Protests
+2022-04,Hauts-Bassins,Strategic developments
+2022-04,Hauts-Bassins,Violence against civilians
+2022-04,Nord,Battles
+2022-04,Nord,Explosions/Remote violence
+2022-04,Nord,Strategic developments
+2022-04,Nord,Violence against civilians
+2022-04,Sahel,Battles
+2022-04,Sahel,Explosions/Remote violence
+2022-04,Sahel,Protests
+2022-04,Sahel,Strategic developments
+2022-04,Sahel,Violence against civilians
+2022-04,Sud-Ouest,Battles
+2022-04,Sud-Ouest,Protests
+2022-04,Sud-Ouest,Strategic developments
+2022-04,Sud-Ouest,Violence against civilians
+2022-05,Boucle du Mouhoun,Battles
+2022-05,Boucle du Mouhoun,Explosions/Remote violence
+2022-05,Boucle du Mouhoun,Strategic developments
+2022-05,Boucle du Mouhoun,Violence against civilians
+2022-05,Cascades,Battles
+2022-05,Cascades,Violence against civilians
+2022-05,Centre,Protests
+2022-05,Centre,Violence against civilians
+2022-05,Centre-Est,Explosions/Remote violence
+2022-05,Centre-Est,Protests
+2022-05,Centre-Est,Strategic developments
+2022-05,Centre-Est,Violence against civilians
+2022-05,Centre-Nord,Battles
+2022-05,Centre-Nord,Explosions/Remote violence
+2022-05,Centre-Nord,Strategic developments
+2022-05,Centre-Nord,Violence against civilians
+2022-05,Centre-Ouest,Battles
+2022-05,Est,Battles
+2022-05,Est,Explosions/Remote violence
+2022-05,Est,Strategic developments
+2022-05,Est,Violence against civilians
+2022-05,Hauts-Bassins,Battles
+2022-05,Hauts-Bassins,Riots
+2022-05,Nord,Battles
+2022-05,Nord,Explosions/Remote violence
+2022-05,Nord,Riots
+2022-05,Nord,Strategic developments
+2022-05,Nord,Violence against civilians
+2022-05,Sahel,Battles
+2022-05,Sahel,Explosions/Remote violence
+2022-05,Sahel,Strategic developments
+2022-05,Sahel,Violence against civilians
+2022-05,Sud-Ouest,Battles
+2022-06,Boucle du Mouhoun,Battles
+2022-06,Boucle du Mouhoun,Strategic developments
+2022-06,Boucle du Mouhoun,Violence against civilians
+2022-06,Cascades,Battles
+2022-06,Cascades,Explosions/Remote violence
+2022-06,Cascades,Violence against civilians
+2022-06,Centre,Protests
+2022-06,Centre,Violence against civilians
+2022-06,Centre-Est,Explosions/Remote violence
+2022-06,Centre-Est,Strategic developments
+2022-06,Centre-Est,Violence against civilians
+2022-06,Centre-Nord,Battles
+2022-06,Centre-Nord,Explosions/Remote violence
+2022-06,Centre-Nord,Protests
+2022-06,Centre-Nord,Riots
+2022-06,Centre-Nord,Strategic developments
+2022-06,Centre-Nord,Violence against civilians
+2022-06,Centre-Sud,Explosions/Remote violence
+2022-06,Est,Battles
+2022-06,Est,Explosions/Remote violence
+2022-06,Est,Protests
+2022-06,Est,Strategic developments
+2022-06,Est,Violence against civilians
+2022-06,Hauts-Bassins,Battles
+2022-06,Hauts-Bassins,Protests
+2022-06,Hauts-Bassins,Violence against civilians
+2022-06,Nord,Battles
+2022-06,Nord,Explosions/Remote violence
+2022-06,Nord,Riots
+2022-06,Nord,Strategic developments
+2022-06,Nord,Violence against civilians
+2022-06,Sahel,Battles
+2022-06,Sahel,Explosions/Remote violence
+2022-06,Sahel,Riots
+2022-06,Sahel,Strategic developments
+2022-06,Sahel,Violence against civilians
+2022-06,Sud-Ouest,Battles
+2022-07,Boucle du Mouhoun,Battles
+2022-07,Boucle du Mouhoun,Explosions/Remote violence
+2022-07,Boucle du Mouhoun,Strategic developments
+2022-07,Boucle du Mouhoun,Violence against civilians
+2022-07,Cascades,Explosions/Remote violence
+2022-07,Cascades,Strategic developments
+2022-07,Cascades,Violence against civilians
+2022-07,Centre,Protests
+2022-07,Centre-Est,Explosions/Remote violence
+2022-07,Centre-Est,Strategic developments
+2022-07,Centre-Est,Violence against civilians
+2022-07,Centre-Nord,Battles
+2022-07,Centre-Nord,Explosions/Remote violence
+2022-07,Centre-Nord,Strategic developments
+2022-07,Centre-Nord,Violence against civilians
+2022-07,Centre-Ouest,Violence against civilians
+2022-07,Est,Battles
+2022-07,Est,Explosions/Remote violence
+2022-07,Est,Riots
+2022-07,Est,Strategic developments
+2022-07,Est,Violence against civilians
+2022-07,Hauts-Bassins,Battles
+2022-07,Hauts-Bassins,Protests
+2022-07,Hauts-Bassins,Riots
+2022-07,Nord,Battles
+2022-07,Nord,Explosions/Remote violence
+2022-07,Nord,Protests
+2022-07,Nord,Strategic developments
+2022-07,Nord,Violence against civilians
+2022-07,Sahel,Battles
+2022-07,Sahel,Explosions/Remote violence
+2022-07,Sahel,Strategic developments
+2022-07,Sahel,Violence against civilians
+2022-07,Sud-Ouest,Violence against civilians
+2022-08,Boucle du Mouhoun,Battles
+2022-08,Boucle du Mouhoun,Explosions/Remote violence
+2022-08,Boucle du Mouhoun,Strategic developments
+2022-08,Boucle du Mouhoun,Violence against civilians
+2022-08,Cascades,Battles
+2022-08,Cascades,Explosions/Remote violence
+2022-08,Centre,Protests
+2022-08,Centre,Riots
+2022-08,Centre,Strategic developments
+2022-08,Centre-Est,Strategic developments
+2022-08,Centre-Est,Violence against civilians
+2022-08,Centre-Nord,Battles
+2022-08,Centre-Nord,Explosions/Remote violence
+2022-08,Centre-Nord,Strategic developments
+2022-08,Centre-Nord,Violence against civilians
+2022-08,Est,Battles
+2022-08,Est,Explosions/Remote violence
+2022-08,Est,Strategic developments
+2022-08,Est,Violence against civilians
+2022-08,Hauts-Bassins,Battles
+2022-08,Nord,Battles
+2022-08,Nord,Explosions/Remote violence
+2022-08,Nord,Protests
+2022-08,Nord,Strategic developments
+2022-08,Nord,Violence against civilians
+2022-08,Sahel,Battles
+2022-08,Sahel,Explosions/Remote violence
+2022-08,Sahel,Protests
+2022-08,Sahel,Strategic developments
+2022-08,Sahel,Violence against civilians
+2022-08,Sud-Ouest,Explosions/Remote violence
+2022-08,Sud-Ouest,Strategic developments
+2022-08,Sud-Ouest,Violence against civilians
+2022-09,Boucle du Mouhoun,Battles
+2022-09,Boucle du Mouhoun,Explosions/Remote violence
+2022-09,Boucle du Mouhoun,Strategic developments
+2022-09,Boucle du Mouhoun,Violence against civilians
+2022-09,Cascades,Battles
+2022-09,Centre,Battles
+2022-09,Centre,Protests
+2022-09,Centre,Riots
+2022-09,Centre,Strategic developments
+2022-09,Centre,Violence against civilians
+2022-09,Centre-Est,Battles
+2022-09,Centre-Est,Strategic developments
+2022-09,Centre-Est,Violence against civilians
+2022-09,Centre-Nord,Battles
+2022-09,Centre-Nord,Explosions/Remote violence
+2022-09,Centre-Nord,Strategic developments
+2022-09,Centre-Nord,Violence against civilians
+2022-09,Centre-Sud,Battles
+2022-09,Est,Battles
+2022-09,Est,Explosions/Remote violence
+2022-09,Est,Strategic developments
+2022-09,Est,Violence against civilians
+2022-09,Hauts-Bassins,Battles
+2022-09,Hauts-Bassins,Protests
+2022-09,Hauts-Bassins,Strategic developments
+2022-09,Hauts-Bassins,Violence against civilians
+2022-09,Nord,Battles
+2022-09,Nord,Explosions/Remote violence
+2022-09,Nord,Protests
+2022-09,Nord,Strategic developments
+2022-09,Nord,Violence against civilians
+2022-09,Plateau-Central,Protests
+2022-09,Sahel,Battles
+2022-09,Sahel,Explosions/Remote violence
+2022-09,Sahel,Protests
+2022-09,Sahel,Strategic developments
+2022-09,Sahel,Violence against civilians
+2022-09,Sud-Ouest,Violence against civilians
+2022-10,Boucle du Mouhoun,Battles
+2022-10,Boucle du Mouhoun,Explosions/Remote violence
+2022-10,Boucle du Mouhoun,Protests
+2022-10,Boucle du Mouhoun,Strategic developments
+2022-10,Boucle du Mouhoun,Violence against civilians
+2022-10,Cascades,Battles
+2022-10,Cascades,Strategic developments
+2022-10,Cascades,Violence against civilians
+2022-10,Centre,Explosions/Remote violence
+2022-10,Centre,Protests
+2022-10,Centre,Riots
+2022-10,Centre,Violence against civilians
+2022-10,Centre-Est,Battles
+2022-10,Centre-Est,Explosions/Remote violence
+2022-10,Centre-Est,Strategic developments
+2022-10,Centre-Est,Violence against civilians
+2022-10,Centre-Nord,Battles
+2022-10,Centre-Nord,Explosions/Remote violence
+2022-10,Centre-Nord,Protests
+2022-10,Centre-Nord,Riots
+2022-10,Centre-Nord,Strategic developments
+2022-10,Centre-Nord,Violence against civilians
+2022-10,Centre-Ouest,Strategic developments
+2022-10,Centre-Ouest,Violence against civilians
+2022-10,Centre-Sud,Battles
+2022-10,Centre-Sud,Protests
+2022-10,Centre-Sud,Violence against civilians
+2022-10,Est,Battles
+2022-10,Est,Explosions/Remote violence
+2022-10,Est,Protests
+2022-10,Est,Riots
+2022-10,Est,Strategic developments
+2022-10,Est,Violence against civilians
+2022-10,Hauts-Bassins,Explosions/Remote violence
+2022-10,Hauts-Bassins,Protests
+2022-10,Hauts-Bassins,Riots
+2022-10,Hauts-Bassins,Strategic developments
+2022-10,Hauts-Bassins,Violence against civilians
+2022-10,Nord,Battles
+2022-10,Nord,Explosions/Remote violence
+2022-10,Nord,Protests
+2022-10,Nord,Strategic developments
+2022-10,Nord,Violence against civilians
+2022-10,Plateau-Central,Riots
+2022-10,Sahel,Battles
+2022-10,Sahel,Explosions/Remote violence
+2022-10,Sahel,Protests
+2022-10,Sahel,Strategic developments
+2022-10,Sahel,Violence against civilians
+2022-10,Sud-Ouest,Battles
+2022-10,Sud-Ouest,Protests
+2022-10,Sud-Ouest,Strategic developments
+2022-10,Sud-Ouest,Violence against civilians
+2022-11,Boucle du Mouhoun,Strategic developments
+2022-11,Centre-Est,Strategic developments
+2022-11,Centre-Est,Violence against civilians
+2022-11,Centre-Nord,Battles
+2022-11,Centre-Nord,Protests
+2022-11,Centre-Nord,Strategic developments
+2022-11,Est,Battles
+2022-11,Est,Explosions/Remote violence
+2022-11,Est,Strategic developments
+2022-11,Est,Violence against civilians
+2022-11,Hauts-Bassins,Strategic developments
+2022-11,Nord,Strategic developments
+2022-12,Boucle du Mouhoun,Battles
+2022-12,Boucle du Mouhoun,Explosions/Remote violence
+2022-12,Boucle du Mouhoun,Strategic developments
+2022-12,Boucle du Mouhoun,Violence against civilians
+2022-12,Cascades,Battles
+2022-12,Cascades,Protests
+2022-12,Cascades,Riots
+2022-12,Cascades,Strategic developments
+2022-12,Cascades,Violence against civilians
+2022-12,Centre,Protests
+2022-12,Centre,Riots
+2022-12,Centre,Violence against civilians
+2022-12,Centre-Est,Battles
+2022-12,Centre-Est,Violence against civilians
+2022-12,Centre-Nord,Battles
+2022-12,Centre-Nord,Explosions/Remote violence
+2022-12,Centre-Nord,Strategic developments
+2022-12,Centre-Nord,Violence against civilians
+2022-12,Centre-Ouest,Battles
+2022-12,Centre-Ouest,Protests
+2022-12,Centre-Ouest,Riots
+2022-12,Centre-Ouest,Strategic developments
+2022-12,Centre-Ouest,Violence against civilians
+2022-12,Centre-Sud,Riots
+2022-12,Centre-Sud,Strategic developments
+2022-12,Est,Battles
+2022-12,Est,Explosions/Remote violence
+2022-12,Est,Protests
+2022-12,Est,Strategic developments
+2022-12,Est,Violence against civilians
+2022-12,Hauts-Bassins,Battles
+2022-12,Hauts-Bassins,Protests
+2022-12,Hauts-Bassins,Strategic developments
+2022-12,Hauts-Bassins,Violence against civilians
+2022-12,Nord,Battles
+2022-12,Nord,Strategic developments
+2022-12,Nord,Violence against civilians
+2022-12,Sahel,Battles
+2022-12,Sahel,Explosions/Remote violence
+2022-12,Sahel,Protests
+2022-12,Sahel,Strategic developments
+2022-12,Sahel,Violence against civilians
+2022-12,Sud-Ouest,Battles
+2022-12,Sud-Ouest,Strategic developments
+2022-12,Sud-Ouest,Violence against civilians

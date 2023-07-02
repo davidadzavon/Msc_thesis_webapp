@@ -1,0 +1,344 @@
+EVENT_DATE,EVENT_TYPE,Total_sum
+2018-01,Battles,2
+2018-01,Protests,4
+2018-01,Riots,3
+2018-01,Strategic developments,1
+2018-01,Violence against civilians,1
+2018-02,Battles,2
+2018-02,Protests,2
+2018-02,Riots,2
+2018-02,Strategic developments,2
+2018-02,Violence against civilians,2
+2018-03,Battles,8
+2018-03,Explosions/Remote violence,2
+2018-03,Protests,2
+2018-03,Riots,1
+2018-03,Strategic developments,1
+2018-03,Violence against civilians,4
+2018-04,Battles,4
+2018-04,Explosions/Remote violence,1
+2018-04,Protests,8
+2018-04,Strategic developments,3
+2018-04,Violence against civilians,12
+2018-05,Battles,5
+2018-05,Protests,4
+2018-05,Riots,3
+2018-05,Strategic developments,2
+2018-05,Violence against civilians,9
+2018-06,Battles,2
+2018-06,Explosions/Remote violence,1
+2018-06,Protests,6
+2018-06,Riots,1
+2018-06,Strategic developments,1
+2018-06,Violence against civilians,4
+2018-07,Battles,5
+2018-07,Protests,1
+2018-07,Strategic developments,1
+2018-07,Violence against civilians,9
+2018-08,Battles,7
+2018-08,Explosions/Remote violence,3
+2018-08,Protests,3
+2018-08,Riots,2
+2018-08,Strategic developments,3
+2018-08,Violence against civilians,3
+2018-09,Battles,8
+2018-09,Explosions/Remote violence,5
+2018-09,Protests,4
+2018-09,Riots,2
+2018-09,Strategic developments,11
+2018-09,Violence against civilians,20
+2018-10,Battles,9
+2018-10,Explosions/Remote violence,3
+2018-10,Protests,16
+2018-10,Riots,1
+2018-10,Strategic developments,12
+2018-10,Violence against civilians,19
+2018-11,Battles,15
+2018-11,Explosions/Remote violence,2
+2018-11,Protests,24
+2018-11,Riots,11
+2018-11,Strategic developments,15
+2018-11,Violence against civilians,20
+2018-12,Battles,11
+2018-12,Explosions/Remote violence,4
+2018-12,Protests,11
+2018-12,Riots,4
+2018-12,Strategic developments,11
+2018-12,Violence against civilians,21
+2019-01,Battles,9
+2019-01,Explosions/Remote violence,3
+2019-01,Protests,32
+2019-01,Riots,3
+2019-01,Strategic developments,4
+2019-01,Violence against civilians,41
+2019-02,Battles,20
+2019-02,Explosions/Remote violence,3
+2019-02,Protests,11
+2019-02,Riots,5
+2019-02,Strategic developments,16
+2019-02,Violence against civilians,17
+2019-03,Battles,14
+2019-03,Explosions/Remote violence,6
+2019-03,Protests,5
+2019-03,Riots,3
+2019-03,Strategic developments,8
+2019-03,Violence against civilians,31
+2019-04,Battles,18
+2019-04,Explosions/Remote violence,2
+2019-04,Protests,18
+2019-04,Riots,3
+2019-04,Strategic developments,8
+2019-04,Violence against civilians,52
+2019-05,Battles,16
+2019-05,Explosions/Remote violence,2
+2019-05,Protests,23
+2019-05,Riots,5
+2019-05,Strategic developments,13
+2019-05,Violence against civilians,25
+2019-06,Battles,17
+2019-06,Explosions/Remote violence,3
+2019-06,Protests,11
+2019-06,Riots,3
+2019-06,Strategic developments,10
+2019-06,Violence against civilians,26
+2019-07,Battles,26
+2019-07,Explosions/Remote violence,4
+2019-07,Protests,3
+2019-07,Strategic developments,15
+2019-07,Violence against civilians,29
+2019-08,Battles,15
+2019-08,Explosions/Remote violence,5
+2019-08,Protests,5
+2019-08,Riots,4
+2019-08,Strategic developments,7
+2019-08,Violence against civilians,25
+2019-09,Battles,12
+2019-09,Explosions/Remote violence,5
+2019-09,Protests,9
+2019-09,Strategic developments,9
+2019-09,Violence against civilians,25
+2019-10,Battles,21
+2019-10,Explosions/Remote violence,4
+2019-10,Protests,10
+2019-10,Strategic developments,8
+2019-10,Violence against civilians,38
+2019-11,Battles,23
+2019-11,Explosions/Remote violence,6
+2019-11,Protests,1
+2019-11,Strategic developments,5
+2019-11,Violence against civilians,25
+2019-12,Battles,21
+2019-12,Explosions/Remote violence,9
+2019-12,Protests,8
+2019-12,Riots,1
+2019-12,Strategic developments,6
+2019-12,Violence against civilians,21
+2020-01,Battles,15
+2020-01,Explosions/Remote violence,10
+2020-01,Protests,8
+2020-01,Strategic developments,12
+2020-01,Violence against civilians,39
+2020-02,Battles,18
+2020-02,Explosions/Remote violence,7
+2020-02,Protests,5
+2020-02,Riots,3
+2020-02,Strategic developments,2
+2020-02,Violence against civilians,28
+2020-03,Battles,27
+2020-03,Explosions/Remote violence,4
+2020-03,Protests,19
+2020-03,Riots,2
+2020-03,Strategic developments,8
+2020-03,Violence against civilians,30
+2020-04,Battles,28
+2020-04,Explosions/Remote violence,8
+2020-04,Protests,3
+2020-04,Riots,4
+2020-04,Strategic developments,17
+2020-04,Violence against civilians,22
+2020-05,Battles,37
+2020-05,Explosions/Remote violence,12
+2020-05,Protests,4
+2020-05,Riots,2
+2020-05,Strategic developments,9
+2020-05,Violence against civilians,34
+2020-06,Battles,20
+2020-06,Explosions/Remote violence,6
+2020-06,Protests,7
+2020-06,Strategic developments,13
+2020-06,Violence against civilians,21
+2020-07,Battles,23
+2020-07,Explosions/Remote violence,7
+2020-07,Protests,8
+2020-07,Riots,2
+2020-07,Strategic developments,22
+2020-07,Violence against civilians,27
+2020-08,Battles,19
+2020-08,Explosions/Remote violence,5
+2020-08,Protests,6
+2020-08,Riots,2
+2020-08,Strategic developments,18
+2020-08,Violence against civilians,28
+2020-09,Battles,22
+2020-09,Explosions/Remote violence,9
+2020-09,Protests,7
+2020-09,Strategic developments,8
+2020-09,Violence against civilians,35
+2020-10,Battles,18
+2020-10,Explosions/Remote violence,3
+2020-10,Protests,3
+2020-10,Riots,1
+2020-10,Strategic developments,4
+2020-10,Violence against civilians,26
+2020-11,Battles,9
+2020-11,Explosions/Remote violence,3
+2020-11,Protests,2
+2020-11,Riots,2
+2020-11,Strategic developments,7
+2020-11,Violence against civilians,25
+2020-12,Battles,7
+2020-12,Explosions/Remote violence,2
+2020-12,Protests,5
+2020-12,Riots,1
+2020-12,Strategic developments,5
+2020-12,Violence against civilians,22
+2021-01,Battles,15
+2021-01,Explosions/Remote violence,2
+2021-01,Protests,3
+2021-01,Riots,1
+2021-01,Strategic developments,11
+2021-01,Violence against civilians,44
+2021-02,Battles,17
+2021-02,Explosions/Remote violence,1
+2021-02,Protests,5
+2021-02,Riots,2
+2021-02,Strategic developments,15
+2021-02,Violence against civilians,32
+2021-03,Battles,15
+2021-03,Explosions/Remote violence,2
+2021-03,Protests,9
+2021-03,Riots,4
+2021-03,Strategic developments,10
+2021-03,Violence against civilians,31
+2021-04,Battles,20
+2021-04,Explosions/Remote violence,16
+2021-04,Protests,8
+2021-04,Riots,3
+2021-04,Strategic developments,19
+2021-04,Violence against civilians,52
+2021-05,Battles,20
+2021-05,Explosions/Remote violence,27
+2021-05,Protests,14
+2021-05,Riots,11
+2021-05,Strategic developments,25
+2021-05,Violence against civilians,78
+2021-06,Battles,34
+2021-06,Explosions/Remote violence,26
+2021-06,Protests,8
+2021-06,Riots,3
+2021-06,Strategic developments,25
+2021-06,Violence against civilians,69
+2021-07,Battles,20
+2021-07,Explosions/Remote violence,35
+2021-07,Protests,42
+2021-07,Strategic developments,20
+2021-07,Violence against civilians,74
+2021-08,Battles,34
+2021-08,Explosions/Remote violence,48
+2021-08,Protests,11
+2021-08,Riots,5
+2021-08,Strategic developments,16
+2021-08,Violence against civilians,41
+2021-09,Battles,21
+2021-09,Explosions/Remote violence,42
+2021-09,Protests,5
+2021-09,Riots,5
+2021-09,Strategic developments,31
+2021-09,Violence against civilians,40
+2021-10,Battles,34
+2021-10,Explosions/Remote violence,82
+2021-10,Protests,7
+2021-10,Riots,2
+2021-10,Strategic developments,51
+2021-10,Violence against civilians,86
+2021-11,Battles,35
+2021-11,Explosions/Remote violence,29
+2021-11,Protests,27
+2021-11,Riots,9
+2021-11,Strategic developments,62
+2021-11,Violence against civilians,38
+2021-12,Battles,39
+2021-12,Explosions/Remote violence,50
+2021-12,Protests,7
+2021-12,Riots,4
+2021-12,Strategic developments,59
+2021-12,Violence against civilians,75
+2022-01,Battles,56
+2022-01,Explosions/Remote violence,57
+2022-01,Protests,12
+2022-01,Riots,9
+2022-01,Strategic developments,64
+2022-01,Violence against civilians,48
+2022-02,Battles,50
+2022-02,Explosions/Remote violence,75
+2022-02,Protests,23
+2022-02,Strategic developments,118
+2022-02,Violence against civilians,65
+2022-03,Battles,51
+2022-03,Explosions/Remote violence,43
+2022-03,Protests,9
+2022-03,Riots,3
+2022-03,Strategic developments,93
+2022-03,Violence against civilians,61
+2022-04,Battles,40
+2022-04,Explosions/Remote violence,26
+2022-04,Protests,6
+2022-04,Strategic developments,81
+2022-04,Violence against civilians,54
+2022-05,Battles,53
+2022-05,Explosions/Remote violence,37
+2022-05,Protests,8
+2022-05,Riots,4
+2022-05,Strategic developments,67
+2022-05,Violence against civilians,57
+2022-06,Battles,46
+2022-06,Explosions/Remote violence,40
+2022-06,Protests,4
+2022-06,Riots,5
+2022-06,Strategic developments,48
+2022-06,Violence against civilians,47
+2022-07,Battles,46
+2022-07,Explosions/Remote violence,43
+2022-07,Protests,5
+2022-07,Riots,2
+2022-07,Strategic developments,59
+2022-07,Violence against civilians,70
+2022-08,Battles,35
+2022-08,Explosions/Remote violence,56
+2022-08,Protests,4
+2022-08,Riots,2
+2022-08,Strategic developments,76
+2022-08,Violence against civilians,40
+2022-09,Battles,37
+2022-09,Explosions/Remote violence,25
+2022-09,Protests,9
+2022-09,Riots,1
+2022-09,Strategic developments,81
+2022-09,Violence against civilians,34
+2022-10,Battles,36
+2022-10,Explosions/Remote violence,30
+2022-10,Protests,29
+2022-10,Riots,9
+2022-10,Strategic developments,91
+2022-10,Violence against civilians,43
+2022-11,Battles,3
+2022-11,Explosions/Remote violence,1
+2022-11,Protests,1
+2022-11,Strategic developments,13
+2022-11,Violence against civilians,2
+2022-12,Battles,33
+2022-12,Explosions/Remote violence,22
+2022-12,Protests,15
+2022-12,Riots,5
+2022-12,Strategic developments,78
+2022-12,Violence against civilians,64

@@ -1,0 +1,100 @@
+Date,Region,Event_type,Total_disaster
+2018-01,Centre-Nord,Storms,3
+2018-03,Boucle du Mouhoun,Floods,3
+2018-04,Centre-Ouest,Storms,3
+2018-05,Centre-Nord,Floods,6
+2018-05,Centre-Nord,Storms,17
+2018-05,Centre-Ouest,Storms,3
+2018-05,Centre-Sud,Storms,8
+2018-05,Haut-Bassins,Floods,3
+2018-05,Nord,Floods,3
+2018-06,Centre-Nord,Floods,3
+2018-06,Centre-Ouest,Storms,3
+2018-06,Centre-Sud,Storms,3
+2018-06,Nord,Floods,6
+2018-06,Nord,Storms,5
+2018-06,Plateau-Central,Floods,3
+2018-06,Plateau-Central,Storms,7
+2018-07,Centre,Floods,6
+2018-07,Centre-Nord,Storms,3
+2018-07,Nord,Floods,6
+2018-07,Plateau-Central,Floods,3
+2018-07,Sud-Ouest,Floods,3
+2018-08,Boucle du Mouhoun,Floods,48
+2018-08,Cascades,Floods,7
+2018-08,Centre-Est,Floods,12
+2018-08,Centre-Nord,Floods,59
+2018-08,Centre-Ouest,Floods,18
+2018-08,Centre-Sud,Floods,3
+2018-08,Est,Floods,3
+2018-08,Haut-Bassins,Floods,9
+2018-08,Nord,Floods,27
+2018-08,Nord,Storms,4
+2018-08,Plateau-Central,Floods,12
+2018-08,Sahel,Floods,13
+2018-09,Boucle du Mouhoun,Floods,3
+2018-09,Centre,Floods,2
+2018-09,Centre-Nord,Floods,12
+2018-09,Est,Floods,4
+2018-09,Haut-Bassins,Floods,9
+2018-09,Sud-Ouest,Floods,3
+2018-10,Cascades,Floods,3
+2019-04,Plateau-Central,Storms,3
+2019-05,Plateau-Central,Floods,4
+2019-07,Boucle du Mouhoun,Floods,6
+2019-07,Centre-Ouest,Floods,3
+2019-07,Haut-Bassins,Floods,6
+2019-07,Sud-Ouest,Floods,6
+2019-08,Centre,Floods,2
+2019-08,Haut-Bassins,Floods,6
+2019-08,Nord,Floods,3
+2019-08,Nord,Storms,3
+2019-09,Haut-Bassins,Floods,6
+2019-09,Sud-Ouest,Floods,3
+2020-04,Centre-Nord,Floods,1
+2020-04,Sud-Ouest,Storms,3
+2020-05,Centre-Sud,Storms,11
+2020-05,Plateau-Central,Storms,3
+2020-06,Centre-Nord,Floods,5
+2020-06,Centre-Sud,Storms,3
+2020-06,Nord,Storms,3
+2020-06,Plateau-Central,Storms,4
+2020-09,Plateau-Central,Floods,3
+2021-02,Sahel,Storms,3
+2021-03,Sahel,Storms,3
+2021-04,Nord,Storms,3
+2021-05,Boucle du Mouhoun,Storms,3
+2021-05,Centre-Est,Storms,3
+2021-05,Centre-Nord,Floods,4
+2021-05,Centre-Nord,Storms,12
+2021-05,Centre-Ouest,Storms,3
+2021-05,Centre-Sud,Storms,20
+2021-05,Nord,Storms,24
+2021-05,Sahel,Storms,12
+2021-06,Boucle du Mouhoun,Floods,3
+2021-06,Boucle du Mouhoun,Storms,3
+2021-06,Centre-Nord,Storms,3
+2021-06,Nord,Floods,3
+2021-06,Nord,Storms,6
+2021-06,Sud-Ouest,Storms,5
+2021-08,Boucle du Mouhoun,Floods,25
+2021-08,Centre-Ouest,Floods,6
+2021-08,Est,Floods,3
+2021-08,Haut-Bassins,Floods,14
+2021-08,Sud-Ouest,Floods,12
+2021-09,Boucle du Mouhoun,Floods,3
+2021-09,Sud-Ouest,Floods,8
+2021-10,Haut-Bassins,Floods,3
+2022-04,Boucle du Mouhoun,Floods,1
+2022-04,Centre-Ouest,Floods,4
+2022-08,Boucle du Mouhoun,Floods,3
+2022-08,Centre,Floods,2
+2022-08,Centre-Sud,Floods,3
+2022-08,Haut-Bassins,Floods,3
+2022-09,Boucle du Mouhoun,Floods,3
+2022-09,Centre-Nord,Floods,3
+2022-09,Centre-Ouest,Floods,6
+2022-09,Haut-Bassins,Floods,23
+2022-09,Nord,Floods,12
+2022-09,Plateau-Central,Floods,6
+2022-10,Sud-Ouest,Floods,3
