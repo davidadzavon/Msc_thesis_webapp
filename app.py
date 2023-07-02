@@ -57,15 +57,27 @@ server = app.server
 
 #country_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/country.geojson'))
 
-
-url = 'https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/country.geojson'
-response = requests.get(url)
+url_country = 'https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/country.geojson'
+response = requests.get(url_country)
 country_geojson = json.loads(response.text)
 
 
-regions_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/regions.geojson'))
-province_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/province.geojson'))
-commune_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/commune.geojson'))
+#regions_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/regions.geojson'))
+url_region = 'https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/regions.geojson'
+response = requests.get(url_region)
+regions_geojson = json.loads(response.text)
+
+
+#province_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/province.geojson'))
+url_province = 'https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/province.geojson'
+response = requests.get(url_province)
+province_geojson = json.loads(response.text)
+
+
+#commune_geojson = json.load(open('https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/commune.geojson'))
+url_commune = 'https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study%20area%20maping/commune.geojson'
+response = requests.get(url_commune)
+commune_geojson = json.loads(response.text)
 
 # Create a Folium map object centered on Burkina Faso
 m = folium.Map(location=[10.2, -1.8], zoom_start=7)
