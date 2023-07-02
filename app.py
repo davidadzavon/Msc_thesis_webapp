@@ -101,7 +101,7 @@ folium.LayerControl().add_to(m)
 
 # Average Temperature for the three afro climatic zone 
 
-Temp_data = pd.read_excel("/home/adzavon/Documents/MSC_Data_Analysis/Temperature/All_temperature.xls")
+Temp_data = pd.read_excel("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Temperature/All_temperature.xls")
 Temp_data_na = Temp_data.dropna()
 fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",              
                 facet_col="Location",  
@@ -121,7 +121,7 @@ fig_temp.update_layout(
 
 # Average precipitation for the three afro climatic zone 
 
-Precip_data= pd.read_excel("/home/adzavon/Documents/MSC_Data_Analysis/Precipitation/All_precipitation.xls")
+Precip_data= pd.read_excel("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/MSC_Data_Analysis/Precipitation/All_precipitation.xls")
 fig_precip = px.scatter(Precip_data, x="Date", y="Precipitation(mm)",              
                 facet_col="Location",  
                 #template = 'plotly_dark',
