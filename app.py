@@ -1272,4 +1272,4 @@ def update_figure(month_range):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server(server='gunicorn', host ='0.0.0.0', port= 5555, debug=False)
+    app.run_server(host ='0.0.0.0', port= 5555, debug=False)
