@@ -112,7 +112,7 @@ fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",
                  trendline = 'ols',
                  trendline_color_override='darkblue',
                  #trendline_scope="overall",
-                title = "Monthly Average Temperature for a representative climatique")
+                title = "Monthly Average Temperature for a different location in the three Agro-climatic Zone")
 fig_temp.update_traces(mode='lines')
 #fig_temp.update_xaxes(showline = True, linecolor = 'black', linewidth = 1, row = 1, col = 1,)
 #fig_temp.update_yaxes(showline = True, linecolor = 'black', linewidth = 1, row = 1, col = 1,)
@@ -132,7 +132,7 @@ fig_precip = px.scatter(Precip_data, x="Date", y="Precipitation(mm)",
                 trendline = 'ols',
                 trendline_color_override='darkblue',
                 #trendline_scope="overall",
-                title = "Monthly Average Precipitation for a representative climatique",
+                title = "Monthly Average Precipitation for a different location in the three Agro-climatic Zone",
                 
                 )
 fig_precip.update_traces(mode='lines')
