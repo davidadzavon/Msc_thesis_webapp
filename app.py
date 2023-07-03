@@ -409,7 +409,9 @@ data0 = pd.read_csv(encoded_url)
 data_Idp = data0[["Idp"]] 
 
 #Split data into training and testing sets
-train = data0[:'2022-05-01']
+data0['Date'] = pd.to_datetime(data0['Date'])
+train_start_date = pd.Timestamp('2022-05-01')
+train = data0[data0['Date'] <= train_start_date]
 test = data0['2022-06-01':]
 
 # Fit ARIMA model to training data
