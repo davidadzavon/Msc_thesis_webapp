@@ -34,8 +34,8 @@ matplotlib.rcParams['text.color'] = 'k'
 plt.style.context('bmh')
 plt.rcParams["font.family"] = "Times New Roman"
 
-app = Flask(__name__)
-dash_app = Dash(__name__, server = app, external_stylesheets=[dbc.themes.BOOTSTRAP])
+
+app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 theme_switch = ThemeSwitchAIO(
     aio_id="theme", themes=[dbc.themes.COSMO, dbc.themes.CYBORG]
@@ -1273,12 +1273,4 @@ def update_figure(month_range):
 
 # Run the app
 if __name__ == '__main__':
-    # Register signal handler here if needed
-    def signal_handler(signal, frame):
-        print('Signal received, exiting...')
-        sys.exit(0)
-
-    signal.signal(signal.SIGTERM, signal_handler)
-
-    # Run the application in the main thread
-    dash_app.run_server(debug=True, host='0.0.0.0', port=5054)
+    app.run_server(debug=True, host='0.0.0.0', port=5054)
