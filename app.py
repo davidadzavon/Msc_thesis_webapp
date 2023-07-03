@@ -157,7 +157,7 @@ fig_precip.update_layout(
 
 # Import the working  for the Internal displacements
 
-dataset_IDP = pd.read_excel("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/Migration_IDP/Sum_months_IDP.xlsx")
+dataset_IDP = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/Migration_IDP/Sum_months_IDP.csv")
 dataset_IDP["Date"] = pd.to_datetime(dataset_IDP["Date"])
 IDP_figure = px.scatter(dataset_IDP,
                     x="Date", 
@@ -166,7 +166,7 @@ IDP_figure = px.scatter(dataset_IDP,
                     trendline_color_override='darkblue')
 
 # Internal Displacement by regions
-Region_IDP_total = pd.read_excel("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/Migration_IDP/Regions_months_IDP.xlsx")
+Region_IDP_total = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/Migration_IDP/Regions_months_IDP.csv")
 Region_IDP_total["Date"] = pd.to_datetime(Region_IDP_total["Date"])
 Region_IDP = px.scatter(Region_IDP_total,
                     x="Regions", 
