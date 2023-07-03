@@ -269,7 +269,7 @@ simplify_merge = simplify_merge_old.set_index("Region")
 
 # Analysis of extreme event in burkina kaso
 
-disaster = pd.read_excel("/home/adzavon/Documents/MSC_Data_Analysis/Diseaster/Conasur_disaster_data.xlsx",)
+disaster = pd.read_csv("https://github.com/davidadzavon/Msc_thesis_webapp/raw/main/Diseaster/Conasur_disaster_data.csv")
 disaster["Province"].unique()
 
 # change the wrong wrinting to the right one
