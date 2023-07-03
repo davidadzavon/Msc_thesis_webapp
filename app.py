@@ -201,7 +201,7 @@ year_conflict['Date'] = year_conflict['EVENT_DATE'].dt.strftime('%b-%y')
 year_conflict
 year_conflict_drop = year_conflict.drop(columns=["EVENT_DATE"])
 year_conflict_drop
-new_data = year_conflict_drop[["Date","ADMIN1","EVENT_TYPE"]]
+new_data = year_conflict.groupby(["Date", "ADMIN1", "EVENT_TYPE"]).size().reset_index(name="Total_conflicts")
 new_data["Total_conflicts"] = 1
 new_data
 
