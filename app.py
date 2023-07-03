@@ -813,7 +813,7 @@ app.layout = html.Div([
         dcc.Dropdown(
             id="dropdown_events",
             options=[{'label':year , 'value':year} 
-                        for year in sorted(new_data["Date"].unique())],
+                        for year in sorted(new_data["EVENT_DATE"].unique())],
             value=[],
             clearable=False,
             multi=True,
