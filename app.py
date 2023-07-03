@@ -103,8 +103,9 @@ folium.LayerControl().add_to(m)
 
 Temp_data = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/Temperature_1/All_temperature.csv")
 Temp_data_na = Temp_data.dropna()
-#Temp_data_na["Date"] = pd.to_datetime(Temp_data_na["Date"])
-    
+Temp_data_na["Date"] = pd.to_datetime(Temp_data_na["Date"])
+#fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)", ...)
+
 fig_temp = px.scatter(Temp_data_na, x="Date", y="Temperature(°C)",            
                  facet_col="Location",  
                  #template = 'plotly_dark',
