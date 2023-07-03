@@ -21,6 +21,7 @@ import matplotlib
 import os
 import time
 import dash
+import urllib.parse
 from io import StringIO
 warnings.filterwarnings('ignore')
 
@@ -396,8 +397,12 @@ fig_event_date.update_layout(
 
 # add the forecasting
 
-data0 = pd.read_csv("https://github.com/davidadzavon/Msc_thesis_webapp/raw/main/merge for forecasting/causality_and_var.csv",
-                   index_col='Date', parse_dates=True)
+
+url = "https://github.com/davidadzavon/Msc_thesis_webapp/raw/main/merge for forecasting/causality_and_var.csv"
+encoded_url = urllib.parse.quote(url, safe=":/")
+
+# Now you can use the encoded_url in your code to read the CSV file
+data0 = pd.read_csv(encoded_url)
 
 # distribution of the data
 
