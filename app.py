@@ -21,6 +21,7 @@ import matplotlib
 import os
 import time
 import dash
+import gunicorn
 import urllib.parse
 from io import StringIO
 warnings.filterwarnings('ignore')
