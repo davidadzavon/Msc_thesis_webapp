@@ -242,7 +242,10 @@ region_bar_fig = px.bar(new_data, x="ADMIN1", y="Total_conflicts",color='EVENT_T
 
 # plot the conflicts zone on map
 
-dataset = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/map_for conflicts/conflicts_true.csv")
+
+url = "https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/map_for%20conflicts/conflicts_true.csv"
+response = requests.get(url)
+dataset = pd.read_csv(pd.compat.StringIO(response.text))
 dataset['Region'] = dataset['Region'].replace(['Hauts-Bassins'], 'Haut-Bassins')
 dataset['Region'] = dataset['Region'].replace(['sahel'], 'Sahel')
 dataset['Region'] = dataset['Region'].replace(['boucle du Mouhoun'], 'Boucle du Mouhoun')
