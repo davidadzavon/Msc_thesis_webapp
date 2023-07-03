@@ -125,6 +125,7 @@ fig_temp.update_layout(
 # Average precipitation for the three afro climatic zone 
 
 Precip_data= pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/Precipitation/All_precipitation.csv")
+Precip_data["Date"] = pd.to_datetime(Precip_data["Date"])
 fig_precip = px.scatter(Precip_data, x="Date", y="Precipitation(mm)",              
                 facet_col="Location",  
                 #template = 'plotly_dark',
