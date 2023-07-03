@@ -53,7 +53,7 @@ theme_switch = ThemeSwitchAIO(
 #url = "https://pkgstore.datahub.io/core/geo-countries/countries/archive/23f420f929e0e09c39d916b8aaa166fb/countries.geojson"
 #Read in GeoJSON files for Burkina Faso's administrative boundaries
 
-server = app.server
+
 # country_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/country.geojson'))
 # regions_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/regions.geojson'))
 # province_geojson = json.load(open('/home/adzavon/Documents/MSC_Data_Analysis/study area maping/province.geojson'))
