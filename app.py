@@ -194,7 +194,7 @@ conflicts_sum_fig.update_layout(
 
 # new_data = year_conflict.groupby(["Year","ADMIN1","EVENT_TYPE"]).size().reset_index(name="Total_conflicts")
 year_conflict = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/conflicts/conflicts.csv")
-year_conflict["EVENT_DATE"] = pd.to_datetime(year_conflict["EVENT_DATE"], format="%Y-%m-%d")
+year_conflict["EVENT_DATE"] = pd.to_datetime(year_conflict["EVENT_DATE"], format="%d-%m-%Y")
 # year_conflict["Year"] = year_conflict["EVENT_DATE"].dt.year
 # year_conflict["month"] = year_conflict["EVENT_DATE"].dt.year
 year_conflict['Date'] = year_conflict['EVENT_DATE'].dt.strftime('%b-%y')
