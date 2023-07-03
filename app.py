@@ -412,7 +412,10 @@ data_Idp = data0[["Idp"]]
 data0['Date'] = pd.to_datetime(data0['Date'])
 train_start_date = pd.Timestamp('2022-05-01')
 train = data0[data0['Date'] <= train_start_date]
-test = data0['2022-06-01':]
+
+data0['Date'] = pd.to_datetime(data0['Date'])
+test_start_date = pd.Timestamp('2022-06-01')
+test = data0[data0['Date'] >= test_start_date]
 
 # Fit ARIMA model to training data
 model = ARIMA(train['Idp'], order=(5, 2, 2))
