@@ -196,17 +196,11 @@ conflicts_sum_fig.update_layout(
 year_conflict = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/conflicts/conflicts.csv")
 year_conflict["EVENT_DATE"] = pd.to_datetime(year_conflict["EVENT_DATE"], infer_datetime_format=True)
 year_conflict['Date'] = year_conflict['EVENT_DATE'].dt.strftime('%b-%y')
-new_data = year_conflict.groupby(["Date", "ADMIN1", "EVENT_TYPE"]).size().reset_index(name="Total_conflicts")
-
-# year_conflict["Year"] = year_conflict["EVENT_DATE"].dt.year
-# year_conflict["month"] = year_conflict["EVENT_DATE"].dt.year
-year_conflict['Date'] = year_conflict['EVENT_DATE'].dt.strftime('%b-%y')
-year_conflict
 year_conflict_drop = year_conflict.drop(columns=["EVENT_DATE"])
-year_conflict_drop
-#new_data = year_conflict.groupby(["Date", "ADMIN1", "EVENT_TYPE"]).size().reset_index(name="Total_conflicts")
+
+new_data = year_conflict_drop.groupby(["Date", "ADMIN1", "EVENT_TYPE"]).size().reset_index(name="Total_conflicts")
 new_data["Total_conflicts"] = 1
-new_data
+
 
 
 color_discrete_sequence = ['#ec7c34']*len(new_data)
