@@ -325,6 +325,7 @@ disaster["Event_type"] = disaster["Event_type"].replace(["Vent violent"],"Storms
 # organisation and class the data too be counted at each extreme event
 
 disasters = disaster[["Date","Region","Event_type"]]
+disasters["Date"] = pd.to_datetime(disasters["Date"])
 disasters["Total_disaster"] = 1
 disasters["Year"]=disasters["Date"].dt.year
 
