@@ -209,7 +209,7 @@ new_data
 color_discrete_sequence = ['#ec7c34']*len(new_data)
 color_discrete_sequence[5] = '#609cd4'
 all_conflict_fig = px.bar(new_data, 
-                          x="Date", y="Total_conflicts",
+                          x="EVENT_DATE", y="Total_conflicts",
                           color='EVENT_TYPE', barmode='group',
                 category_orders= {"EVENT_TYPE":['Battles', 'Protests', 'Strategic developments', 'Riots',
        'Violence against civilians', 'Explosions/Remote violence']},
