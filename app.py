@@ -199,9 +199,9 @@ year_conflict = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_
 # year_conflict["month"] = year_conflict["EVENT_DATE"].dt.year
 #year_conflict['Date'] = year_conflict['EVENT_DATE'].dt.strftime('%b-%y')
 year_conflict
-year_conflict_drop = year_conflict.drop(columns=["EVENT_DATE"])
-year_conflict_drop
-new_data = year_conflict_drop[["Date","ADMIN1","EVENT_TYPE"]]
+#year_conflict_drop = year_conflict.drop(columns=["EVENT_DATE"])
+#year_conflict_drop
+new_data = year_conflict_drop[["EVENT_DATE","ADMIN1","EVENT_TYPE"]]
 new_data["Total_conflicts"] = 1
 new_data
 
