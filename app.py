@@ -39,7 +39,7 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 theme_switch = ThemeSwitchAIO(
     aio_id="theme", themes=[dbc.themes.COSMO, dbc.themes.CYBORG]
 ),
-
+server = app.server
 # EDICC, WASCAL,UJKZ picture
 #pil_image = Image.open('/home/adzavon/Documents/MSC_Data_Analysis/Dash/assets/Screenshot from 2023-02-10 00-23-20.png') # replace with your own image
 
@@ -1272,4 +1272,4 @@ def update_figure(month_range):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server(host='0.0.0.0', port=8888, debug=False)
+    app.run_server(debug=False)
