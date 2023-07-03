@@ -253,7 +253,7 @@ dataset['Region'] = dataset['Region'].replace(['sahel'], 'Sahel')
 dataset['Region'] = dataset['Region'].replace(['boucle du Mouhoun'], 'Boucle du Mouhoun')
 
 # merge shapefile and csv
-shapefile = gpd.readfile("/vsicurl/https://github.com/davidadzavon/Msc_thesis_webapp/blob/main/study%20area%20maping/gadm36_BFA_shp/gadm36_BFA_shp/gadm36_BFA_1.shp")
+shapefile = gpd.read_file("/vsicurl/https://github.com/davidadzavon/Msc_thesis_webapp/blob/main/study%20area%20maping/gadm36_BFA_shp/gadm36_BFA_shp/gadm36_BFA_1.shp")
 shapefile_map = shapefile[["NAME_1","geometry"]]
 merged = shapefile_map.merge(dataset, left_on="NAME_1", right_on="Region")
 simplify_merge_old = merged[["Year","Region","EVENT_TYPE","SUM_CONFLICTS","geometry"]]
