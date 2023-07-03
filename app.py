@@ -176,7 +176,7 @@ Region_IDP = px.scatter(Region_IDP_total,
 
 #sum of the conflicts
 
-sum_conflicts_data = pd.read_excel("/home/adzavon/Documents/MSC_Data_Analysis/conflicts/conflicts_sum.xlsx")
+sum_conflicts_data = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/conflicts/conflicts_sum.csv")
 sum_conflicts_data["month"]=sum_conflicts_data["Date of Events"].dt.month
 conflicts_sum_fig = px.bar(sum_conflicts_data, x="Date of Events", y="Number of Conflicts", 
                 color='month' ,text='Number of Conflicts'  )
@@ -192,7 +192,7 @@ conflicts_sum_fig.update_layout(
 # year_conflict["Year"] = year_conflict["EVENT_DATE"].dt.year
 
 # new_data = year_conflict.groupby(["Year","ADMIN1","EVENT_TYPE"]).size().reset_index(name="Total_conflicts")
-year_conflict = pd.read_excel("/home/adzavon/Documents/MSC_Data_Analysis/conflicts/conflicts.xlsx")
+year_conflict = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/conflicts/conflicts.csv")
 year_conflict["EVENT_DATE"] = pd.to_datetime(year_conflict["EVENT_DATE"])
 # year_conflict["Year"] = year_conflict["EVENT_DATE"].dt.year
 # year_conflict["month"] = year_conflict["EVENT_DATE"].dt.year
