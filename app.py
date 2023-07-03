@@ -1271,4 +1271,4 @@ def update_figure(month_range):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run_server(debug=True)
