@@ -205,7 +205,7 @@ year_conflict = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_
 #year_conflict_drop
 new_data = year_conflict[["EVENT_DATE","ADMIN1","EVENT_TYPE"]]
 new_data["Total_conflicts"] = 1
-new_data
+#new_data
 
 
 color_discrete_sequence = ['#ec7c34']*len(new_data)
@@ -357,7 +357,7 @@ fig_event_region.update_layout(
 #fig_event_region.show()
 
 # having the date in a goog format
-disasters
+#disasters
 disasters["Date"] = pd.to_datetime(disasters["Date"])
 disasters = disasters[["Date","Region","Event_type","Total_disaster"]]
 disasters['Date'] = disasters['Date'].dt.strftime('%Y-%m')
