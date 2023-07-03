@@ -396,7 +396,7 @@ fig_event_date.update_layout(
 
 # add the forecasting
 
-data0 = pd.read_csv("/home/adzavon/Documents/MSC_Data_Analysis/merge for forecasting/causality_and_var.csv",
+data0 = pd.read_csv("https://github.com/davidadzavon/Msc_thesis_webapp/raw/main/merge for forecasting/causality_and_var.csv",
                    index_col='Date', parse_dates=True)
 
 # distribution of the data
