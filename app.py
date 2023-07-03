@@ -242,13 +242,13 @@ region_bar_fig = px.bar(new_data, x="ADMIN1", y="Total_conflicts",color='EVENT_T
 
 # plot the conflicts zone on map
 
-dataset = pd.read_csv("/home/adzavon/Documents/MSC_Data_Analysis/map_for conflicts/conflicts_true.csv")
+dataset = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/map_for conflicts/conflicts_true.csv")
 dataset['Region'] = dataset['Region'].replace(['Hauts-Bassins'], 'Haut-Bassins')
 dataset['Region'] = dataset['Region'].replace(['sahel'], 'Sahel')
 dataset['Region'] = dataset['Region'].replace(['boucle du Mouhoun'], 'Boucle du Mouhoun')
 
 # merge shapefile and csv
-shapefile = gpd.read_file("/home/adzavon/Documents/MSC_Data_Analysis/study area maping/gadm36_BFA_shp/gadm36_BFA_shp/gadm36_BFA_1.shp")
+shapefile = gpd.read_file("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/study area maping/gadm36_BFA_shp/gadm36_BFA_shp/gadm36_BFA_1.shp")
 shapefile_map = shapefile[["NAME_1","geometry"]]
 merged = shapefile_map.merge(dataset, left_on="NAME_1", right_on="Region")
 simplify_merge_old = merged[["Year","Region","EVENT_TYPE","SUM_CONFLICTS","geometry"]]
