@@ -177,6 +177,7 @@ Region_IDP = px.scatter(Region_IDP_total,
 #sum of the conflicts
 
 sum_conflicts_data = pd.read_csv("https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/conflicts/conflicts_sum.csv")
+sum_conflicts_data["ate of Events"] = pd.to_datetime(sum_conflicts_data["ate of Events"])
 sum_conflicts_data["month"]=sum_conflicts_data["Date of Events"].dt.month
 conflicts_sum_fig = px.bar(sum_conflicts_data, x="Date of Events", y="Number of Conflicts", 
                 color='month' ,text='Number of Conflicts'  )
