@@ -21,6 +21,7 @@ import matplotlib
 import os
 import time
 import dash
+from io import StringIO
 warnings.filterwarnings('ignore')
 
 plt.style.use('bmh')
@@ -242,9 +243,6 @@ region_bar_fig = px.bar(new_data, x="ADMIN1", y="Total_conflicts",color='EVENT_T
 
 # plot the conflicts zone on map
 
-import pandas as pd
-import requests
-from io import StringIO
 
 url = "https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/map_for%20conflicts/conflicts_true.csv"
 response = requests.get(url)
