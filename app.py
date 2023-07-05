@@ -551,33 +551,21 @@ app.layout = html.Div([
     dcc.Markdown('''
         #### Description of temperature trends in the study area
 
-        Burkina Faso has three climatic zones. In the north of
-        the country, the first is the **Sahelian zone**. In the 
-        center, the **Sudano-Sahelian zone**, and in the south of 
-        the country, the **Sudanian zone**. In this study, we used 
-        representative synoptic stations to characterize the 
-        climate in these three climatic zones. In the north, 
-        the Dori station; in the center, the Ouagagougou 
-        station (the capital); and in the south, the Bobo Dioulasso 
-        station. From these three graphs, we can see that 
-        average monthly temperatures vary according to climatic zone. 
-        The northern zone is the hottest. In the Sahelian zone, 
-        the average monthly temperature is between 34 and 37°C 
-        during hot spells, and as low as 21 and 24°C during cool 
-        spells. On the other hand, in the central Sudano-Sahelian 
-        zone, the average monthly temperature varies between 32 
-        and 35°C in the hot season and between 22 and 25°C in the 
-        cool season. Finally, the southern zone, the Sudanian, has 
-        an average monthly temperature of between 27 and 31°C in hot 
-        periods, sometimes reaching 23 and 25°C in cool periods.  
-        This analysis shows that the Sahelian zone has more temperature 
-        extremes than the others, depending on weather changes. 
-        Temperatures in the Southern Zone are not very sensitive 
-        to seasonal or periodic changes. However, we can see that 
-        temperatures in all three climatic zones have an upward 
-        trend, which means that despite the monthly variability 
-        observed, temperatures within the zone generally increase 
-        over time, even if the slope is not very steep.
+Burkina Faso has three climatic zones: the Sahelian zone, the Sudano-Sahelian zone, and the
+Sudanian zone. We used representative synoptic stations to characterize the climate in these
+three climatic zones. The north is represented by the Dori station, the center by the
+Ouagadougou station, and the south by Bobo Dioulasso station. The average monthly
+temperature varies according to the climatic zone. The northern zone is the hottest. In the
+Sahelian zone, the average monthly temperature is between 34 and 37°C during hot spells and
+as low as 21 and 24°C during cool spells. In the central Sudano-Sahelian zone, the average
+monthly temperature varies between 32 and 35°C in the hot season and between 22 and 25°C
+in the cool season. Finally, the Sudanian zone has an average monthly temperature of between
+27 and 31°C in hot periods, sometimes reaching 23 and 25°C in cool periods. This analysis
+shows that the Sahelian zone has more temperature extremes than the others, depending on
+weather changes. Temperatures in the Southern Zone are not very sensitive to seasonal or
+periodic changes. However, temperatures in all three climatic zones have an upward trend,
+which means that despite the monthly variability observed, temperatures within the zone
+generally increase over time, even though the slope is not steep.
 
         For more detailed information click [`here`](https://www.donneesmondiales.com/afrique/burkina-faso/climat-boucle-du-mouhoun.php).
 
@@ -600,22 +588,17 @@ app.layout = html.Div([
     dcc.Markdown('''
         #### Description of Precipitation trends in the study area
 
-        Precipitation is a really important climatic variable. In Burkina
-        Faso there are only two seasons. A dry one and a rainy one, 
-        each lasting six months. Over the last thirty years, Burkina 
-        Faso has seen an increase in the amount of rainfall recorded 
-        per month.  This increase is slight and can be seen over time. 
-        The dry season begins in November and ends in April, while the 
-        rainy season begins in May and ends in October. In terms of a 
-        comparative analysis of these three climatic zones, the Sahelian 
-        zone receives the least rainfall. Thus, the Sudanian zone receives 
-        a lot of rain per month compared with the other zones.  It varies 
-        from month to month, with some months, such as July, August and 
-        September, receiving more rain than others. Agriculture in Burkina 
-        faso, even when it has begun to apply irrigation, remains fairly 
-        dependent on rainfall. Moreover, the regions located in the 
-        Sudanianne zone have a more productive agriculture than other 
-        regions, as is the case of the Hauts Bassins and Cascades regions.
+Burkina Faso has two seasons. A dry and rainy season, each lasting six months. Over the last
+thirty years, Burkina Faso has experienced an increase in the amount of rainfall recorded per
+month. This increase is slight and can be seen over time. The dry season begins in November
+and ends in April, while the rainy season begins in May and ends in October. In terms of a
+comparative analysis of these three climatic zones, the Sahelian zone receives the least
+rainfall. Thus, the Sudanian zone receives a lot of rain per month compared with the other
+zones. It varies from month to month, with some months, such as July, August, and
+September, receiving more rain than others. Agriculture in Burkina Faso, even when it has
+begun to apply irrigation, remains dependent on rainfall. Moreover, the regions located in the
+Sudanianne zone have more productive agriculture than other regions, such as the Hauts
+Bassins and Cascades regions.
 
 
         For more detailed information click [`here`](https://climateknowledgeportal.worldbank.org/country/burkina-faso/climate-data-historical#:~:text=Three%20climate%20zones%20split%20the,the%20southern%20more%20humid%20Sudanian).
@@ -647,23 +630,19 @@ app.layout = html.Div([
             html.Hr(),
 
             dcc.Markdown('''
-            This graph shows how extreme events have evolved over time. 
-            Our study focused on two environmental disasters: floods and 
-            high winds. This graph shows occurrence by month of the year. 
-            The red represents the storms and the blue the floods recorded 
-            in each month. The longer the bar graph, the greater the number 
-            of extreme events. On this graph, we can see that in 2022, all 
-            recorded events are floods. In addition, floods, which can only 
-            occur during rainy periods, are periodic on our graph. They usually 
-            occur between May and November. On the other hand, cases of violent 
-            winds are present in rainy periods or in the dry season, which really 
-            begins in December and ends in April or May. We can see that there 
-            are more floods than storms, but 2018, 2020 and 2021 in particular 
-            were years in which storms occurred more frequently. The highest peak 
-            in flooding was in 2018, but in 2021 and 2022 there are also a number 
-            of recorded floods that deserve special attention. Storms generally 
-            arrive in periods of more or less the same month, so it's likely that 
-            the rains will also arrive with violent winds in Burkina faso.
+            
+This graph shows how extreme events have evolved over time. Our study focused on two
+environmental disasters: floods and storms. This graph shows occurrences by month of the
+year. The red represents the storms and the blue the floods recorded in each month. The
+longer the bar graph, the greater the number of extreme events. In 2022, all recorded events
+are floods. In addition, floods, which can only occur during rainy periods are periodic. They
+usually occur between May and November. Cases of violent winds are present in rainy
+periods or in the dry season, which really begins in December and ends in April or May. We
+can see that there are more floods than storms, but 2018, 2020, and 2021 were years in which
+storms occurred more frequently. The highest peak in flooding was in 2018, but in 2021 and
+2022 there are also a number of recorded floods that deserve special attention. Storms
+generally occur at more or less frequent intervals, so it is likely that violent winds will occur
+during the rainy season in Burkina Faso.
             
           '''),
           html.Hr()
@@ -704,23 +683,15 @@ app.layout = html.Div([
             html.Hr(),
             dcc.Markdown('''
             
-                Internal displacement in Burkina Faso has 
-                made great strides and is becoming a well-known 
-                phenomenon on the national territory. At the 
-                beginning of 2018, the number of people was 
-                really low and did not require any particular 
-                attention. But towards the middle of 2018, 
-                everything changed. The number of internally 
-                displaced persons in the country has been rising 
-                steadily. Up until 2020, the situation became 
-                worrying, to the point where the number of 
-                internally displaced people exceeded one million. 
-                Today, it continues to rise, and is approaching 
-                2 million. However, this upsurge has drawn our 
-                attention in order to carry out a specific study 
-                on the issue of internally displaced people and to 
-                propose approaches or opportunistic policies so that 
-                this number can be reduced in the coming years. 
+Internal displacement in Burkina Faso has made great strides and is becoming a well-known
+phenomenon on the national territory. At the beginning of 2018, the number of displaced
+people was low and did not require any particular attention. Some changes occurred towards
+the middle of 2018. The number of internally displaced persons in the country has been rising
+steadily. Up until 2020, the situation became worrying, to the point where the number of
+internally displaced people exceeded one million. Today, it continues to rise and is
+approaching 2 million. However, this upsurge has drawn our attention in order to carry out a
+specific study on the issue of internally displaced people and to propose approaches or
+opportunistic policies so that this number can be reduced in the coming years.
                         
          '''),
             html.Hr(),
@@ -761,23 +732,14 @@ app.layout = html.Div([
 
     dcc.Markdown('''
 
-        Here, we're interested in the region of origin 
-        of internal transferees. Through this analysis 
-        of their regions of origin, we found that many 
-        of these people would have come from the Centre-Nord 
-        region, the Sahel region, the Nord and the Est. In 
-        the Centre-Nord region, there are almost 700,000 
-        internally displaced persons, followed by the Sahel 
-        region, which also has almost 600,000 internally 
-        displaced persons. The North and East regions follow, 
-        with 250,000 and 200,000 people respectively. On the 
-        other hand, there are areas with low levels of internal 
-        displacement. These areas are the Centre region, with almost
-        1,000 internally displaced people, and the Centre-Sud region, 
-        with almost 9,000 people considered internally displaced. 
-        In the other regions, however, the number of internally 
-        displaced people is between 35,000 and 100,000 thousand. 
-        These are the regions around the center.
+The analysis of regions of origin of displaced people showed that many of them would have come
+from the Centre-Nord region, the Sahel region, the Nord, and the Est. In the Centre-Nord region,
+there are almost 700,000 internally displaced persons, followed by the Sahel region, which also has
+almost 600,000 internally displaced persons. The North and East regions follow, with 250,000 and
+200,000 people respectively. There are areas with low levels of internal displacement. These areas
+are the Centre region, with almost 1,000 internally displaced people, and the Centre-Sud region, with
+almost 9,000 people considered internally displaced. In the other regions, such as the center, the
+number of internally displaced people is between 35,000 and 100,000 thousand.
                        
          '''),
          html.Hr(),
@@ -920,7 +882,7 @@ dbc.Tabs([
             ), 
             html.Br(),
             html.Br(),
-            html.Li('Dr. Koffi Doh David ADZAVON'),
+            html.Li('Koffi Doh David ADZAVON'),
 
              html.H3(
                 "Contact information",
@@ -1112,9 +1074,9 @@ def update_animated_text(n):
 def update_bar_chart(years):
     if not years:
         return {"data":[]}
-    data = new_data[new_data["Date"].isin(years)]
+    data = new_data[new_data["EVENT_DATE"].isin(years)]
     
-    fig = px.histogram(data, x="Date", 
+    fig = px.histogram(data, x="EVENT_DATE", 
                         y="Total_conflicts", 
                         color='EVENT_TYPE',
                         barmode='group',
