@@ -481,7 +481,7 @@ app.layout = html.Div([
 
     # EDICC, WASCAL,UJKZ picture
     
-    html.Img(src="assets/Screenshot from 2023-02-10 00-23-20.png",
+    html.Img(src="https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/assets/Screenshot from 2023-02-10 00-23-20.png",
     style={ "margin-left": 150, "margin-right": "auto"}
     ),
     html.Br(),
@@ -915,7 +915,7 @@ dbc.Tabs([
                 
                 style={"font-size": "20px", "text-decoration": "underline"},
             ),
-            html.Img(src="assets/david.png", width="100", height="100"
+            html.Img(src="https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/assets/david.png", width="100", height="100"
     
             ), 
             html.Br(),
@@ -945,7 +945,7 @@ dbc.Tabs([
                 "Supervisor",
                 style={"font-size": "20px", "text-decoration": "underline"},
             ),
-            html.Img(src="assets/315807014_2653030521495265_2179227970308179347_n.jpg",
+            html.Img(src="https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/assets/315807014_2653030521495265_2179227970308179347_n.jpg",
                       width="100", 
                       height="100"),
             html.Br(),
@@ -976,7 +976,7 @@ dbc.Tabs([
                 "Supervisor",
                 style={"font-size": "20px", "text-decoration": "underline"},
             ),
-            html.Img(src="assets/342045109_892702281794164_819791163060069082_n.jpg",
+            html.Img(src="https://raw.githubusercontent.com/davidadzavon/Msc_thesis_webapp/main/assets/342045109_892702281794164_819791163060069082_n.jpg",
                       width="100", 
                       height="100"),
             html.Br(),
@@ -1102,7 +1102,7 @@ dbc.Tabs([
     dash.dependencies.Input('interval-component', 'n_intervals')
 )
 def update_animated_text(n):
-    text = " YOU ARE WELCOME TO OUR DASHBOARD FOR CLIMATE EXTREME EVENTS, CONFLICTS AND INTERNAL DISPALCEMENT FORECASTING"
+    text = "WELCOME TO OUR DASHBOARD FOR CLIMATE EXTREME EVENTS, CONFLICTS AND INTERNAL DISPALCEMENT FORECASTING"
     return text[0:n % len(text)]
 
 # call back to analyse conflict data
