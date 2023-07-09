@@ -1,45 +1,493 @@
-,Date,Regions,Internal Displced People
-0,2018-07-01,nord,558
-1,2018-08-01,centre-nord,3335
-2,2018-09-01,centre-nord,669
-3,2019-01-01,centre,0
-7,2019-02-01,centre,431
-11,2019-03-01,centre,431
-16,2019-04-01,centre-nord,200
-18,2019-05-01,boucle du mouhoun,100
-24,2019-06-01,boucle du mouhoun,120
-37,2019-07-01,boucle du mouhoun,8577
-50,2019-08-01,boucle du mouhoun,8577
-63,2019-09-01,boucle du mouhoun,8577
-76,2019-10-01,boucle du mouhoun,8588
-89,2019-12-01,boucle du mouhoun,8737
-102,2020-01-01,boucle du mouhoun,10662
-115,2020-02-01,boucle du mouhoun,10662
-128,2020-02-01,boucle du mouhoun,11350
-141,2020-03-01,boucle du mouhoun,14548
-154,2020-04-01,boucle du mouhoun,15979
-167,2020-06-01,boucle du mouhoun,32036
-180,2020-07-01,boucle du mouhoun,36834
-193,2020-08-01,boucle du mouhoun,37015
-206,2020-09-01,boucle du mouhoun,44859
-219,2020-11-01,boucle du mouhoun,44921
-232,2020-12-01,boucle du mouhoun,44902
-245,2021-01-01,boucle du mouhoun,44899
-258,2021-02-01,boucle du mouhoun,44899
-271,2021-03-01,boucle du mouhoun,44913
-284,2021-04-01,boucle du mouhoun,44913
-297,2021-05-01,boucle du mouhoun,44942
-310,2021-06-01,boucle du mouhoun,45597
-323,2021-07-01,boucle du mouhoun,46315
-336,2021-08-01,boucle du mouhoun,47523
-349,2021-09-01,boucle du mouhoun,47573
-362,2021-10-01,boucle du mouhoun,47573
-375,2021-11-01,boucle du mouhoun,50042
-388,2021-12-01,boucle du mouhoun,50054
-401,2022-01-01,boucle du mouhoun,57516
-414,2022-02-01,boucle du mouhoun,62669
-427,2022-03-01,boucle du mouhoun,77001
-440,2022-04-01,boucle du mouhoun,80938
-453,2022-04-01,boucle du mouhoun,72961
-466,2022-09-01,boucle du mouhoun,83483
-479,2022-10-01,boucle du mouhoun,84948
+Date,Regions,Internal Displced People
+07/2018,nord,558
+08/2018,centre-nord,3335
+09/2018,centre-nord,669
+01/2019,centre,0
+,centre-nord,14964
+,nord,2462
+,sahel,64538
+02/2019,centre,431
+,centre-nord,27547
+,nord,4072
+,sahel,80007
+03/2019,centre,431
+,centre-nord,32542
+,est,2529
+,nord,5078
+,sahel,95009
+04/2019,centre-nord,200
+,sahel,161017
+05/2019,boucle du mouhoun,100
+,centre,431
+,centre-nord,53973
+,est,3158
+,nord,5578
+,sahel,108754
+06/2019,boucle du mouhoun,120
+,cascades,268
+,centre,1051
+,centre-est,466
+,centre-nord,80103
+,centre-ouest,636
+,centre-sud,113
+,est,3584
+,hauts-bassins,468
+,nord,9978
+,plateau central,272
+,sahel,122473
+,sud-ouest,224
+07/2019,boucle du mouhoun,8577
+,cascades,268
+,centre,1051
+,centre-est,129
+,centre-nord,82660
+,centre-ouest,636
+,centre-sud,101
+,est,3584
+,hauts-bassins,558
+,nord,10058
+,plateau central,2429
+,sahel,127477
+,sud-ouest,241
+08/2019,boucle du mouhoun,8577
+,cascades,268
+,centre,1051
+,centre-est,145
+,centre-nord,119798
+,centre-ouest,636
+,centre-sud,101
+,est,10293
+,hauts-bassins,558
+,nord,14356
+,plateau central,2573
+,sahel,130353
+,sud-ouest,285
+09/2019,boucle du mouhoun,8577
+,cascades,268
+,centre,1051
+,centre-est,145
+,centre-nord,119798
+,centre-ouest,636
+,centre-sud,101
+,est,10293
+,hauts-bassins,558
+,nord,14356
+,plateau central,2598
+,sahel,130925
+,sud-ouest,285
+10/2019,boucle du mouhoun,8588
+,cascades,268
+,centre,1051
+,centre-est,145
+,centre-nord,270476
+,centre-ouest,635
+,centre-sud,101
+,est,10293
+,hauts-bassins,558
+,nord,31998
+,plateau central,1222
+,sahel,160741
+,sud-ouest,284
+12/2019,boucle du mouhoun,8737
+,cascades,268
+,centre,1051
+,centre-est,555
+,centre-nord,270476
+,centre-ouest,635
+,centre-sud,1773
+,est,17484
+,hauts-bassins,3510
+,nord,38244
+,plateau central,4718
+,sahel,212298
+,sud-ouest,284
+01/2020,boucle du mouhoun,10662
+,cascades,268
+,centre,1051
+,centre-est,555
+,centre-nord,316812
+,centre-ouest,635
+,centre-sud,1773
+,est,18329
+,hauts-bassins,4011
+,nord,42396
+,plateau central,4718
+,sahel,212298
+,sud-ouest,284
+02/2020,boucle du mouhoun,10662
+,cascades,268
+,centre,1051
+,centre-est,13372
+,centre-nord,383925
+,centre-ouest,635
+,centre-sud,1773
+,est,18329
+,hauts-bassins,4011
+,nord,42396
+,plateau central,5765
+,sahel,283046
+,sud-ouest,284
+02/2020,boucle du mouhoun,11350
+,cascades,268
+,centre,1051
+,centre-est,13372
+,centre-nord,385107
+,centre-ouest,635
+,centre-sud,1773
+,est,18329
+,hauts-bassins,6365
+,nord,52396
+,plateau central,5765
+,sahel,283046
+,sud-ouest,284
+03/2020,boucle du mouhoun,14548
+,cascades,5845
+,centre,1051
+,centre-est,13372
+,centre-nord,386701
+,centre-ouest,635
+,centre-sud,1773
+,est,18329
+,hauts-bassins,9788
+,nord,62491
+,plateau central,12589
+,sahel,310059
+,sud-ouest,1362
+04/2020,boucle du mouhoun,15979
+,cascades,5845
+,centre,1051
+,centre-est,13372
+,centre-nord,387203
+,centre-ouest,635
+,centre-sud,1773
+,est,20283
+,hauts-bassins,10357
+,nord,66659
+,plateau central,13034
+,sahel,310066
+,sud-ouest,2072
+06/2020,boucle du mouhoun,32036
+,cascades,5845
+,centre,1051
+,centre-est,13387
+,centre-nord,387203
+,centre-ouest,4705
+,centre-sud,1773
+,est,65348
+,hauts-bassins,11378
+,nord,71784
+,plateau central,13832
+,sahel,310066
+,sud-ouest,3063
+07/2020,boucle du mouhoun,36834
+,cascades,7529
+,centre,1051
+,centre-est,23392
+,centre-nord,389501
+,centre-ouest,4705
+,centre-sud,2325
+,est,65348
+,hauts-bassins,11394
+,nord,74114
+,plateau central,14460
+,sahel,344528
+,sud-ouest,3563
+08/2020,boucle du mouhoun,37015
+,cascades,7729
+,centre,1051
+,centre-est,23392
+,centre-nord,416136
+,centre-ouest,11126
+,centre-sud,2325
+,est,66325
+,hauts-bassins,11429
+,nord,74114
+,plateau central,14460
+,sahel,344569
+,sud-ouest,3563
+09/2020,boucle du mouhoun,44859
+,cascades,7729
+,centre,1051
+,centre-est,23392
+,centre-nord,422267
+,centre-ouest,11126
+,centre-sud,2325
+,est,66460
+,hauts-bassins,18281
+,nord,74527
+,plateau central,14460
+,sahel,344569
+,sud-ouest,3563
+11/2020,boucle du mouhoun,44921
+,cascades,7783
+,centre,1051
+,centre-est,25533
+,centre-nord,430191
+,centre-ouest,11126
+,centre-sud,2325
+,est,68027
+,hauts-bassins,19859
+,nord,76218
+,plateau central,14601
+,sahel,344569
+,sud-ouest,3563
+12/2020,boucle du mouhoun,44902
+,cascades,8098
+,centre,1051
+,centre-est,28446
+,centre-nord,433597
+,centre-ouest,11126
+,centre-sud,4008
+,est,71394
+,hauts-bassins,20571
+,nord,76953
+,plateau central,15199
+,sahel,352402
+,sud-ouest,7246
+01/2021,boucle du mouhoun,44899
+,cascades,8253
+,centre,1051
+,centre-est,29142
+,centre-nord,438557
+,centre-ouest,11126
+,centre-sud,4008
+,est,78533
+,hauts-bassins,20960
+,nord,84697
+,plateau central,15269
+,sahel,353721
+,sud-ouest,7246
+02/2021,boucle du mouhoun,44899
+,cascades,8253
+,centre,1051
+,centre-est,29142
+,centre-nord,445869
+,centre-ouest,11126
+,centre-sud,4008
+,est,84827
+,hauts-bassins,21221
+,nord,92826
+,plateau central,15583
+,sahel,355909
+,sud-ouest,7246
+03/2021,boucle du mouhoun,44913
+,cascades,8629
+,centre,1051
+,centre-est,30888
+,centre-nord,462690
+,centre-ouest,11126
+,centre-sud,4024
+,est,89889
+,hauts-bassins,21609
+,nord,100254
+,plateau central,16408
+,sahel,347159
+,sud-ouest,9059
+04/2021,boucle du mouhoun,44913
+,cascades,9875
+,centre,1051
+,centre-est,31258
+,centre-nord,467738
+,centre-ouest,11126
+,centre-sud,4024
+,est,96223
+,hauts-bassins,21836
+,nord,102295
+,plateau central,16570
+,sahel,402786
+,sud-ouest,9059
+05/2021,boucle du mouhoun,44942
+,cascades,9980
+,centre,1051
+,centre-est,31741
+,centre-nord,469442
+,centre-ouest,11126
+,centre-sud,4024
+,est,98627
+,hauts-bassins,22205
+,nord,105536
+,plateau central,16820
+,sahel,428171
+,sud-ouest,9751
+06/2021,boucle du mouhoun,45597
+,cascades,10017
+,centre,1051
+,centre-est,32051
+,centre-nord,476225
+,centre-ouest,11126
+,centre-sud,4024
+,est,103927
+,hauts-bassins,22542
+,nord,107012
+,plateau central,16909
+,sahel,471688
+,sud-ouest,9902
+07/2021,boucle du mouhoun,46315
+,cascades,10017
+,centre,1051
+,centre-est,32686
+,centre-nord,483546
+,centre-ouest,20973
+,centre-sud,4010
+,est,113867
+,hauts-bassins,22823
+,nord,113155
+,plateau central,16632
+,sahel,493187
+,sud-ouest,9902
+08/2021,boucle du mouhoun,47523
+,cascades,10109
+,centre,1051
+,centre-est,33221
+,centre-nord,494061
+,centre-ouest,20973
+,centre-sud,4010
+,est,136764
+,hauts-bassins,23191
+,nord,125985
+,plateau central,17786
+,sahel,498802
+,sud-ouest,9902
+09/2021,boucle du mouhoun,47573
+,cascades,15596
+,centre,1051
+,centre-est,32352
+,centre-nord,466314
+,centre-ouest,20960
+,centre-sud,4359
+,est,143246
+,hauts-bassins,23216
+,nord,128162
+,plateau central,18081
+,sahel,493708
+,sud-ouest,13067
+10/2021,boucle du mouhoun,47573
+,cascades,15626
+,centre,1051
+,centre-est,33815
+,centre-nord,510110
+,centre-ouest,20960
+,centre-sud,4359
+,est,146960
+,hauts-bassins,23943
+,nord,142107
+,plateau central,11851
+,sahel,510279
+,sud-ouest,13067
+11/2021,boucle du mouhoun,50042
+,cascades,15626
+,centre,1051
+,centre-est,34766
+,centre-nord,518947
+,centre-ouest,20960
+,centre-sud,4359
+,est,148191
+,hauts-bassins,24739
+,nord,143544
+,plateau central,12577
+,sahel,510279
+,sud-ouest,16694
+12/2021,boucle du mouhoun,50054
+,cascades,17793
+,centre,1051
+,centre-est,34805
+,centre-nord,566132
+,centre-ouest,20960
+,centre-sud,4429
+,est,147990
+,hauts-bassins,24825
+,nord,166367
+,plateau central,12588
+,sahel,512916
+,sud-ouest,20066
+01/2022,boucle du mouhoun,57516
+,cascades,19133
+,centre,100
+,centre-est,38999
+,centre-nord,626602
+,centre-ouest,20960
+,centre-sud,4429
+,est,151706
+,hauts-bassins,32035
+,nord,207096
+,plateau central,16628
+,sahel,546385
+,sud-ouest,20066
+02/2022,boucle du mouhoun,62669
+,cascades,19456
+,centre,1051
+,centre-est,38999
+,centre-nord,652159
+,centre-ouest,20960
+,centre-sud,4429
+,est,156485
+,hauts-bassins,33062
+,nord,212434
+,plateau central,16643
+,sahel,575870
+,sud-ouest,20066
+03/2022,boucle du mouhoun,77001
+,cascades,20291
+,centre,1051
+,centre-est,43383
+,centre-nord,655891
+,centre-ouest,20960
+,centre-sud,4429
+,est,162699
+,hauts-bassins,38095
+,nord,218695
+,plateau central,18139
+,sahel,568598
+,sud-ouest,20066
+04/2022,boucle du mouhoun,80938
+,cascades,20911
+,centre,6761
+,centre-est,45156
+,centre-nord,657041
+,centre-ouest,30076
+,centre-sud,5088
+,est,170416
+,hauts-bassins,39367
+,nord,222169
+,plateau central,20307
+,sahel,574096
+,sud-ouest,29824
+04/2022,boucle du mouhoun,72961
+,cascades,13878
+,centre,6761
+,centre-est,44862
+,centre-nord,456198
+,centre-ouest,30076
+,centre-sud,5088
+,est,162210
+,hauts-bassins,36835
+,nord,203814
+,plateau central,20001
+,sahel,437504
+,sud-ouest,29824
+09/2022,boucle du mouhoun,83483
+,cascades,16562
+,centre,9875
+,centre-est,53257
+,centre-nord,468343
+,centre-ouest,30076
+,centre-sud,5740
+,est,191623
+,hauts-bassins,49660
+,nord,249292
+,plateau central,31654
+,sahel,480870
+,sud-ouest,48897
+10/2022,boucle du mouhoun,84948
+,cascades,17037
+,centre,9875
+,centre-est,53833
+,centre-nord,468482
+,centre-ouest,39401
+,centre-sud,8528
+,est,195005
+,hauts-bassins,51148
+,nord,249564
+,plateau central,35399
+,sahel,496804
+,sud-ouest,51891
